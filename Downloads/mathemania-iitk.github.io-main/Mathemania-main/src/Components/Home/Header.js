@@ -60,7 +60,7 @@ export default function Header() {
 
                     </div>
 
-                    <Typography variant='h5'  align='left' style={{marginBottom: '50px'}}><span style={{color: '#3ed1b8'}}>Mathemania 2022 is a 4-stage treasure hunt consisting of Math and Logical puzzles,  based on the trilogy Hunger Games</span>  organized by the Stamatics Society </Typography>
+                    <Typography variant='h5'  align='left' style={{marginBottom: '50px'}}><span style={{color: '#3ed1b8'}}>Mathemania 2022 is a 3-stage treasure hunt consisting of Math and Logical puzzles,  based on the trilogy Hunger Games</span>  organized by the Stamatics Society </Typography>
 
                     <Button variant='contained' href='#catt' color='secondary' style={{color: '#000', marginLeft: '20px'}}>More Info</Button>
                 </Grid>
