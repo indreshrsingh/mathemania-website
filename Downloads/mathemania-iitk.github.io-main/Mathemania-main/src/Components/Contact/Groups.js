@@ -62,8 +62,8 @@ export default function OC() {
     
     <Card className={classes.root} elevation='6' >
       <CardHeader
-        title="STAMATICS Discord Channel"
-        subheader="You can join the STAMATICS Discord channel  and chat with other participants and get help in if you need any"
+        title="MATHEMANIA Discord Channel"
+        subheader="You can join the MATHEMANIA Discord channel  and chat with other participants and get help in if you need any"
       />
       <CardContent>
         <Typography variant="body2"  component="p">
@@ -76,7 +76,7 @@ export default function OC() {
         variant="contained"
         size="large"
         target="_blank"
-        href="https://discord.gg/uWakSWHT"
+        href="https://discord.gg/CwZYxaYW"
         className={classes.button}
         startIcon={<i class="fab fa-discord"></i>}
       >
