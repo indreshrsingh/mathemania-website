@@ -290,7 +290,7 @@ export default function Nav() {
        
         <NavLink
           className={menuButton}
-          to="/"
+          to="/404"
           activeStyle={{
             fontWeight: "bold",
             fontSize: "20px",
