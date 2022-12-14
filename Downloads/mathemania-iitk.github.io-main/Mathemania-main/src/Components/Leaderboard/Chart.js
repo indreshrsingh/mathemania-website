@@ -116,10 +116,10 @@ export default function CustomizedTables() {
           className={classes.sheetButton}
           variant="contained"
           color="secondary"
-          href="https://docs.google.com/spreadsheets/d/1ZmjWh1Obuz5bYRQDhHlelxqaDzE-JfGqK2ieToJkmvM/edit?usp=sharing"
+          href="/404"
           target="_blank"
         >
-          Leaderboard Spreadsheet
+          Leaderboard Spreadsheet(TBU)
         </Button>
 
         <br></br>
