@@ -128,6 +128,23 @@ backgroundSize: 'cover',
       </CardContent>
     </Card>
     </Grid>
+    <Grid item className={classes.cont}>
+    <Card className={classes.root}  elevation='3'>
+      <CardHeader
+        title="Prizes"
+       
+        titleTypographyProps={{variant:'h3', color: 'secondary'}}
+      />
+      <CardContent className={classes.subContent}>
+        <Typography variant="h6" className={classes.subText}>
+        Special Prizes for Top 3.
+        Honourable Mention Certificate for Top 10.
+        Participation  Certificate for all.
+       </Typography>
+      </CardContent>
+    </Card>
+    </Grid>
+
     </Grid>
       
         </div>
