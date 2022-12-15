@@ -94,7 +94,8 @@ backgroundSize: 'cover',
       />
       <CardContent className={classes.subContent}>
         <Typography variant="h6" className={classes.subText}>
-        22 December-24 December
+        21 December-22 December
+        The first round will be objective with the next two rounds being subjective.
         </Typography>
       </CardContent>
     </Card>
@@ -128,6 +129,7 @@ backgroundSize: 'cover',
     </Card>
     </Grid>
     </Grid>
+      
         </div>
     )
 }
