@@ -53,7 +53,7 @@ export default function Header() {
         <div>
             <Grid container className={classes.headerContainer}>
                 <Grid item  xl={6} lg={6} md={12} sm={12} xs={12} className={classes.hero}>
-                    <Typography variant='h2' gutterBottom="true" align='left' style={{marginBottom: '50px', fontWeight: 'bold'}}>MATHEMANIA 2022</Typography>
+                    <Typography variant='h2' gutterBottom="true" align='left' style={{marginBottom: '50px', fontWeight: 'bold',fontSize:'52px'}}>MATHEMANIA 2022</Typography>
 
                     <div className="countdown">
                     <br></br>
