@@ -8,7 +8,7 @@ import {
 import MenuIcon from "@material-ui/icons/Menu";
 import { NavLink } from "react-router-dom";
 import React, { useState, useEffect } from "react";
-import logoGIF from "../Img/Stamatics-logo.png";
+import logoGIF from "../Img/stamatics_logo.png";
 import Countdown from "react-countdown";
 
 const useStyles = makeStyles(() => ({
