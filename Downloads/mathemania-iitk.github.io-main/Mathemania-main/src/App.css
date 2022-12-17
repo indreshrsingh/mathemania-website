@@ -142,6 +142,7 @@ span.question {
 .footer-nav {
   display: flex;
   flex-direction: column;
+    position: absolute;
    left:1230px;
   top:2350px;
 }
