@@ -9,7 +9,7 @@ import IconButton from '@material-ui/core/IconButton';
 import Typography from '@material-ui/core/Typography';
 import { Grid } from '@material-ui/core';
 import catImg from '../../Img/cat.jpg'
-import { GitHub, Instagram, Phone } from '@material-ui/icons';
+import { GitHub, Instagram, Phone,Email } from '@material-ui/icons';
 import theme from '../../theme'
 import OCdata from '../../Data/OC.json'
 import Aos from 'aos';
