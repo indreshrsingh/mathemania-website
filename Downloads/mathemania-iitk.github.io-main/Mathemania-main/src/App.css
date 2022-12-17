@@ -17,10 +17,8 @@ body {
   margin: 0;
   font-family: 'Titillium Web', sans-serif;
   background-size: cover;
-  background-attachment: scroll;
+  background-attachment: fixed;
   padding: 0;
-  display:flex;
-  flex-direction: column;
 
 }
 
@@ -129,17 +127,12 @@ footer .content {
   row-gap: 15px;
   justify-content: space-evenly;
   max-height: inherit;
-  align-items: flex-start;
-
+  
 }
 footer .about {
   margin: auto;
   margin-top: 10px;
   max-width: 500px;
-  position: absolute;
-  left:530px;
-  top:2350px;
-  
   
 }
 span.question {
@@ -149,10 +142,7 @@ span.question {
 .footer-nav {
   display: flex;
   flex-direction: column;
-  position: absolute;
-  left:1230px;
-  top:2350px;
-  
+    
 }
 
 .footer-nav a {
@@ -171,8 +161,7 @@ span#copyrights {
   grid-column: 1/4;
   justify-self: center;
   color: #969696;
-  position: absolute;
-  top:2550px;
+
 }
 
 .footer-contact svg:first-child {
@@ -183,7 +172,6 @@ span#copyrights {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  
 }
 
 @media screen and (max-width: 850px) {
@@ -196,7 +184,6 @@ span#copyrights {
   .footer-nav {
     flex-direction: row;
     justify-content: space-evenly;
-   
   }
   .footer-nav a {
     padding: 10px;
@@ -218,7 +205,6 @@ span#copyrights {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-   
   }
   span#copyrights {
     margin-top: auto;
