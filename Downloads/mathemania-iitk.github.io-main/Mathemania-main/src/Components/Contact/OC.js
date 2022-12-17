@@ -87,7 +87,9 @@ export default function OC() {
       />
       <CardActions disableSpacing >
        
-      
+      <IconButton className={classes.icons} aria-label="GitHub" href='mailto:pranshuug20@iitk.ac.in' target="_blank">
+          <Email />
+        </IconButton>pranshuug20@iitk.ac.in
       </CardActions>
     </Card>
 
@@ -97,7 +99,12 @@ export default function OC() {
         title= "Aniruddh Pramod" 
         subheader= "Coordinator"
       />
-     
+     <CardActions disableSpacing >
+       
+       <IconButton className={classes.icons} aria-label="GitHub" href='mailto:aniruddhp21@iitk.ac.in' target="_blank">
+           <Email /> 
+         </IconButton>aniruddhp21@iitk.ac.in
+       </CardActions>
     </Card>
 
     <Card className={classes.root} elevation='6' data-aos="zoom-in-up">
@@ -107,7 +114,10 @@ export default function OC() {
         subheader= "Coordinator"
       />
       <CardActions disableSpacing >
-      
+      <IconButton className={classes.icons} aria-label="GitHub" href='mailto:bipplavkt20@iitk.ac.in' target="_blank">
+           <Email />
+         </IconButton>
+         bipplavkt20@iitk.ac.in
       
       </CardActions>
     </Card>
@@ -119,7 +129,10 @@ export default function OC() {
         subheader= "Coordinator"
       />
       <CardActions disableSpacing >
-        
+         <IconButton className={classes.icons} aria-label="Email" href='mailto:dwijamk21@iitk.ac.in' target="_blank">
+           <Email />
+         </IconButton>
+         dwijamk21@iitk.ac.in
       
       </CardActions>
     </Card>
