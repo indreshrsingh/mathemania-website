@@ -126,6 +126,7 @@ footer .content {
   row-gap: 15px;
   justify-content: space-evenly;
   max-height: inherit;
+   align-items: flex-start;
 }
 footer .about {
   margin: auto;
