@@ -131,6 +131,9 @@ footer .about {
   margin: auto;
   margin-top: 10px;
   max-width: 500px;
+  position: absolute;
+  left:530px;
+  top:2350px;
 }
 span.question {
   font-size: 15px;
@@ -139,6 +142,8 @@ span.question {
 .footer-nav {
   display: flex;
   flex-direction: column;
+   left:1230px;
+  top:2350px;
 }
 
 .footer-nav a {
@@ -157,6 +162,8 @@ span#copyrights {
   grid-column: 1/4;
   justify-self: center;
   color: #969696;
+  position: absolute;
+  top:2550px;
 }
 
 .footer-contact svg:first-child {
