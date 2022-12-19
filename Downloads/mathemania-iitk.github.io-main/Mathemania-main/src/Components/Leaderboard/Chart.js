@@ -149,7 +149,8 @@ export default function CustomizedTables() {
                   {list.index}
                 </StyledTableCell>
                 <StyledTableCell className={classes.body} align="center">
-                  {list.name}
+                  {/*{list.name}*/}
+                  test
                 </StyledTableCell>
                 <StyledTableCell className={classes.body} align="center">
                   {list.class}
