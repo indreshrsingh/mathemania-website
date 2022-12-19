@@ -249,36 +249,7 @@ export default function TaskCard() {
             </div>
           </Card>
 
-          <Card className={classes.roott} color="primary">
-            <div className={classes.details}>
-              <CardContent className={classes.content}>
-                <div className={classes.stars}>
-                  <Star
-                    color="secondary"
-                    fontSize="large"
-                    className={classes.icons}
-                  />
-                </div>
-
-                <div className={classes.namePlace}>
-                  <Typography component="h5" variant="h5" align="center">
-                   Test
-                  </Typography>
-                  <Typography
-                    variant="subtitle1"
-                    color="textSecondary"
-                    align="center"
-                    className={classes.cat}
-                  >
-                    All-Round 2nd Runner Up
-                  </Typography>
-                </div>
-
-                <hr color="#16548a"></hr>
-                <Typography variant="caption">Grade 09-10</Typography>
-              </CardContent>
-            </div>
-          </Card>
+         
         </Grid>
       </div>
     );
