@@ -164,7 +164,7 @@ export default function TaskCard() {
 
                 <div className={classes.namePlace}>
                   <Typography component="h5" variant="h5" align="center">
-                    Janiru Semitha
+                   Test
                   </Typography>
                   <Typography
                     variant="subtitle1"
@@ -200,7 +200,7 @@ export default function TaskCard() {
 
                 <div className={classes.namePlace}>
                   <Typography component="h5" variant="h5" align="center">
-                    Nisandu Athsara
+                  Test
                   </Typography>
                   <Typography
                     variant="subtitle1"
@@ -231,7 +231,7 @@ export default function TaskCard() {
 
                 <div className={classes.namePlace}>
                   <Typography component="h5" variant="h5" align="center">
-                    Pulitha Sethnindu
+                    Test
                   </Typography>
                   <Typography
                     variant="subtitle1"
@@ -262,7 +262,7 @@ export default function TaskCard() {
 
                 <div className={classes.namePlace}>
                   <Typography component="h5" variant="h5" align="center">
-                    Lithira Mendis
+                   Test
                   </Typography>
                   <Typography
                     variant="subtitle1"
