@@ -94,7 +94,7 @@ backgroundSize: 'cover',
       />
       <CardContent className={classes.subContent}>
         <Typography variant="h6" className={classes.subText}>
-        21 December-22 December
+        26 December-27 December
         The first round will be objective with the next two rounds being subjective.
         </Typography>
       </CardContent>
@@ -110,7 +110,7 @@ backgroundSize: 'cover',
       />
       <CardContent className={classes.subContent}>
         <Typography variant="h6" className={classes.subText}>
-        The event will be completely online. All updates and rules for the event will be posted by 12 noon, 21 December on this website. Stay tuned! </Typography>
+        The event will be completely online. All updates and rules for the event will be posted by 12 noon, 26 December on this website. Stay tuned! </Typography>
       </CardContent>
     </Card>
     </Grid>
@@ -123,8 +123,11 @@ backgroundSize: 'cover',
         titleTypographyProps={{variant:'h3', color: 'secondary'}}
       />
       <CardContent className={classes.subContent}>
-        <Typography variant="h6" className={classes.subText}>
-        Link to be uploaded soon</Typography>
+         <Typography variant="h6" className={classes.subText}>
+        You can register in team of upto 3 members in below link.
+        <br></br>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4qdxDOUTSYgsFRUCEwgHRcnUIGBdsE-VKJZmFJw8taJAaUw/viewform" target="_blank">Register</a>
+        </Typography>
       </CardContent>
     </Card>
     </Grid>
