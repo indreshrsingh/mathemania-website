@@ -124,7 +124,7 @@ backgroundSize: 'cover',
       />
       <CardContent className={classes.subContent}>
          <Typography variant="h6" className={classes.subText}>
-        You can register in team of upto 3 members in below link.
+        You can register in team of upto 4 members in below link.
         <br></br>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4qdxDOUTSYgsFRUCEwgHRcnUIGBdsE-VKJZmFJw8taJAaUw/viewform" target="_blank">Register</a>
         </Typography>
