@@ -121,10 +121,21 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 export default function FullWidthTabs() {
+  
+  
+  
   const classes = useStyles();
   const theme = useTheme();
   const [value, setValue] = React.useState(0);
+  const examStartTime = new Date('2022-12-26T17:30:00').getTime();
 
+// Calculate the time remaining until the exam starts
+const timeUntilExamStart = examStartTime - currentTime;
+const [ok, setOk] = useState(0);
+setTimeout(function() {
+  // Display the question paper
+setOk(1);
+}, timeUntilExamStart);
   const handleChange = (event, newValue) => {
     setValue(newValue);
   };
@@ -203,6 +214,9 @@ export default function FullWidthTabs() {
                   {details.point5 !== "" && <li>{details.point5}</li>}
                   {details.point6 !== "" && <li>{details.point6}</li>}
                   {details.point7 !== "" && <li>{details.point7}</li>}
+                   {ok>0 && <object data={QuestionPaper} type="application/pdf" style={{height:"1500px",width:"800px"}}>
+      <p>Your browser does not support PDFs. Please download the PDF to view it: <a href="../../../Data/QuestionPaper.pdf">Download PDF</a></p>
+    </object>}
                 </ul>
                 <br></br>
                                 <Button
