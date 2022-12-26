@@ -13,7 +13,7 @@ import "../../../App.css";
 import taskDetails from "../../../Data/tasks.json";
 import Linkify from "react-linkify";
 import { useState } from "react";
-import QuestionPaper from "../../../Data/ROUND2.pdf";
+import QuestionPaper from "../../../Data/Round2.pdf";
 function TabPanel(props) {
   const { children, value, index, ...other } = props;
 
