@@ -205,6 +205,15 @@ export default function FullWidthTabs() {
                   {details.point7 !== "" && <li>{details.point7}</li>}
                 </ul>
                 <br></br>
+                                <Button
+                href={details.submit}
+                className={classes.form}
+                color="secondary"
+                target="_blank"
+                variant="contained"
+              >
+                Submit Task
+              </Button>
               </Linkify>
             </TabPanel>
             <TabPanel value={value} index={1} dir={theme.direction}>
