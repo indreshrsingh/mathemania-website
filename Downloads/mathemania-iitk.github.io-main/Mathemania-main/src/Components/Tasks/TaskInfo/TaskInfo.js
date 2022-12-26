@@ -128,7 +128,7 @@ export default function FullWidthTabs() {
   const currentTime = new Date().getTime();
 
 // Set the time in milliseconds for when the exam starts
-const examStartTime = new Date('2022-12-26T20:59:00').getTime();
+const examStartTime = new Date('2022-12-26T21:29:00').getTime();
 
 // Calculate the time remaining until the exam starts
 const timeUntilExamStart = examStartTime - currentTime;
