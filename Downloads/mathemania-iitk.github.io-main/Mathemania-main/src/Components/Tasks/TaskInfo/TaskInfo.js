@@ -13,7 +13,7 @@ import "../../../App.css";
 import taskDetails from "../../../Data/tasks.json";
 import Linkify from "react-linkify";
 import { useState } from "react";
-
+import { Document ,Page,} from 'react-pdf';
 import QuestionPaper from "../../../Data/QuestionPaper.pdf";
 function TabPanel(props) {
   const { children, value, index, ...other } = props;
@@ -123,13 +123,13 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 export default function FullWidthTabs() {
-  
-  
-  
   const classes = useStyles();
   const theme = useTheme();
   const [value, setValue] = React.useState(0);
-  const examStartTime = new Date('2022-12-26T17:28:00').getTime();
+  const currentTime = new Date().getTime();
+
+// Set the time in milliseconds for when the exam starts
+const examStartTime = new Date('2022-12-26T17:28:00').getTime();
 
 // Calculate the time remaining until the exam starts
 const timeUntilExamStart = examStartTime - currentTime;
@@ -138,6 +138,15 @@ setTimeout(function() {
   // Display the question paper
 setOk(1);
 }, timeUntilExamStart);
+
+const [numPages, setNumPages] = useState(null);
+const [pageNumber, setPageNumber] = useState(1);
+
+function onDocumentLoadSuccess({ numPages }) {
+  setNumPages(numPages);
+}
+
+
   const handleChange = (event, newValue) => {
     setValue(newValue);
   };
@@ -216,12 +225,13 @@ setOk(1);
                   {details.point5 !== "" && <li>{details.point5}</li>}
                   {details.point6 !== "" && <li>{details.point6}</li>}
                   {details.point7 !== "" && <li>{details.point7}</li>}
-                   {ok>0 && <object data={QuestionPaper} type="application/pdf" style={{height:"1500px",width:"800px"}}>
+                  {ok>0 && <object data={QuestionPaper} type="application/pdf" style={{height:"1500px",width:"800px"}}>
       <p>Your browser does not support PDFs. Please download the PDF to view it: <a href="../../../Data/QuestionPaper.pdf">Download PDF</a></p>
-    </object>}
+    </object>
+} 
                 </ul>
                 <br></br>
-                                <Button
+                <Button
                 href={details.submit}
                 className={classes.form}
                 color="secondary"
