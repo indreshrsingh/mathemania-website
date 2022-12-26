@@ -121,7 +121,7 @@ export default function CustomizedTables() {
 
    async function  FectchData(){
 
-    const response = await fetch(  "https://opensheet.elk.sh/1VIjIrPJ_IItOY3Ef-_J_3-VEEEC-Iq8VXI2muOIPTLc/Sheet1"
+    const response = await fetch(  "https://opensheet.elk.sh/1PnmvsGwzjZJdpTJShZgp759d354XvAZz3kFXMK5XVOw/Sheet1"
     );
       
       
@@ -176,7 +176,7 @@ export default function CustomizedTables() {
                   style={{ color: "#3ed1b8", fontWeight: "bold" }}
                   className={classes.body}
                 >
-                  {list.index}
+                  {index+1}
                 </StyledTableCell>
                 <StyledTableCell className={classes.body} align="center">
                   {list.TeamName}
