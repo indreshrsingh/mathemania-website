@@ -10,6 +10,19 @@
     "point1": "Question Paper is uploaded in below pdf file",
     "point2":"Please download the pdf for better view ",
     "point3":"Feedback is uploaded in leaderboard section"
+     },
+    {
+    "id": "Round 1",
+    "index": 2,
+    "taskName": "Round 1",
+    "shortDescription": "Its recommeneded to download the pdf",
+    "description": "",
+     "catogery": "",
+    "submit": "",
+    "point1": "Question Paper is uploaded in below pdf file",
+    "point2":"Please download the pdf for better view ",
+    "point3":"Feedback is uploaded in leaderboard section"
      }
+
 
 ]
