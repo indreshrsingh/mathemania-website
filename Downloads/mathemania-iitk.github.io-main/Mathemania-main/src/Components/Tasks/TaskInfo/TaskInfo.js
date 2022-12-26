@@ -225,7 +225,7 @@ function onDocumentLoadSuccess({ numPages }) {
                   {details.point6 !== "" && <li>{details.point6}</li>}
                   {details.point7 !== "" && <li>{details.point7}</li>}
                   {ok>0 && <object data={QuestionPaper} type="application/pdf" style={{height:"1500px",width:"800px"}}>
-      <p>Your browser does not support PDFs. Please download the PDF to view it: <a href="../../../Data/QuestionPaper.pdf">Download PDF</a></p>
+      <p>Your browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/14y7F0ZlTRdjrScxRxPqKw4PH52gUR2PF/view?usp=drivesdk">Download PDF</a></p>
     </object>
 } 
                 </ul>
