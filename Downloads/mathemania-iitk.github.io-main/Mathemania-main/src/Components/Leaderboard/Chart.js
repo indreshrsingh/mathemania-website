@@ -166,7 +166,7 @@ export default function CustomizedTables() {
           <TableBody className={classes.tBody}>
             
 
-            {data1.map((list,index) => (
+            {data.map((list,index) => (
                
               <StyledTableRow key={index} >
                 <StyledTableCell
