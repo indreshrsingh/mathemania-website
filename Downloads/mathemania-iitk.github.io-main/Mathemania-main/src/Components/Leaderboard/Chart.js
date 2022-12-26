@@ -137,7 +137,7 @@ export default function CustomizedTables() {
       <TableContainer className={classes.papper}>
         <div className={classes.updateContainer}>
           <Typography className={classes.update} variant="caption">
-            LIVE
+            After Round 1
           </Typography>
         </div>
 
