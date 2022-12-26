@@ -149,7 +149,7 @@ export default function CustomizedTables() {
           href="https://docs.google.com/spreadsheets/d/1iUALYoiQDrnqHhlw8wixINnd1Md7K_vRu_fjnxSjpHg/edit#gid=1498414682"
           target="_blank"
         >
-          Leaderboard Spreadsheet(TBU)
+          Leaderboard Spreadsheet
         </Button>
 
         <br></br>
