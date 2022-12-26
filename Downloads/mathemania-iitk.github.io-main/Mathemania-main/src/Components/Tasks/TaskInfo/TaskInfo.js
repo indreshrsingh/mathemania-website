@@ -129,7 +129,7 @@ export default function FullWidthTabs() {
   const classes = useStyles();
   const theme = useTheme();
   const [value, setValue] = React.useState(0);
-  const examStartTime = new Date('2022-12-26T17:30:00').getTime();
+  const examStartTime = new Date('2022-12-26T17:28:00').getTime();
 
 // Calculate the time remaining until the exam starts
 const timeUntilExamStart = examStartTime - currentTime;
