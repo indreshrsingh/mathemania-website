@@ -121,8 +121,7 @@ export default function CustomizedTables() {
 
    async function  FectchData(){
 
-    const response = await fetch(  "https://opensheet.elk.sh/1PnmvsGwzjZJdpTJShZgp759d354XvAZz3kFXMK5XVOw/Sheet1"
-    );
+    const response = " "
       
       
        var data2 = await response.json();
