@@ -1,4 +1,4 @@
-import React from 'react';
+import React,{useState} from 'react';
 import { withStyles, makeStyles } from '@material-ui/core/styles';
 import Table from '@material-ui/core/Table';
 import TableBody from '@material-ui/core/TableBody';
@@ -10,6 +10,14 @@ import data from '../../Data/LeaderBoard.json'
 import Winners from './Winners'
 import theme from '../../theme';
 import { Button, Typography } from '@material-ui/core';
+import { useEffect } from 'react';
+
+
+
+
+
+
+
 
 const StyledTableCell = withStyles((theme) => ({
   head: {
@@ -100,15 +108,37 @@ const useStyles = makeStyles({
   },
 });
 
+
+
+
 export default function CustomizedTables() {
   const classes = useStyles();
+  useEffect(() => {
+    FectchData()
+   }, []);
+   const [data1,setData1]=useState(data);
+
+
+   async function  FectchData(){
+
+    const response = await fetch(  "https://opensheet.elk.sh/1VIjIrPJ_IItOY3Ef-_J_3-VEEEC-Iq8VXI2muOIPTLc/Sheet1"
+    );
+      
+      
+       var data2 = await response.json();
+       setData1(data2);
+  
+  }
+  
+   setInterval(FectchData,1000);
+
   return (
     <div>
       <Winners />
       <TableContainer className={classes.papper}>
         <div className={classes.updateContainer}>
           <Typography className={classes.update} variant="caption">
-            Last updated: 01.09.2021 10.15PM
+            LIVE
           </Typography>
         </div>
 
@@ -129,17 +159,17 @@ export default function CustomizedTables() {
               <StyledTableCell style={{ color: "#3ed1b8" }}>
                 Rank
               </StyledTableCell>
-              <StyledTableCell align="center">Nickname</StyledTableCell>
-              <StyledTableCell align="center">Class</StyledTableCell>
-              <StyledTableCell align="center">
-                No. Of Tasks Accepted
-              </StyledTableCell>
+              <StyledTableCell align="center">Teamname</StyledTableCell>
               <StyledTableCell align="center">Points</StyledTableCell>
+              <StyledTableCell align="center">Penalty</StyledTableCell>
             </TableRow>
           </TableHead>
           <TableBody className={classes.tBody}>
-            {data.map((list, index) => (
-              <StyledTableRow key={index}>
+            
+
+            {data1.map((list,index) => (
+               
+              <StyledTableRow key={index} >
                 <StyledTableCell
                   component="th"
                   scope="row"
@@ -149,18 +179,16 @@ export default function CustomizedTables() {
                   {list.index}
                 </StyledTableCell>
                 <StyledTableCell className={classes.body} align="center">
-                  {/*{list.name}*/}
-                  test
+                  {list.TeamName}
+                
                 </StyledTableCell>
                 <StyledTableCell className={classes.body} align="center">
-                  {list.class}
+                {list.Score}
                 </StyledTableCell>
                 <StyledTableCell className={classes.body} align="center">
-                  {list.tasks}
+                {list.Penalty}
                 </StyledTableCell>
-                <StyledTableCell className={classes.body} align="center">
-                  {list.points}
-                </StyledTableCell>
+                
               </StyledTableRow>
             ))}
           </TableBody>
