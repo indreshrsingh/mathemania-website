@@ -12,7 +12,9 @@ import SwipeableViews from "react-swipeable-views";
 import "../../../App.css";
 import taskDetails from "../../../Data/tasks.json";
 import Linkify from "react-linkify";
-
+import { useState } from "react";
+import { Document ,Page,} from 'react-pdf';
+import QuestionPaper from "../../../Data/QuestionPaper.pdf";
 function TabPanel(props) {
   const { children, value, index, ...other } = props;
 
