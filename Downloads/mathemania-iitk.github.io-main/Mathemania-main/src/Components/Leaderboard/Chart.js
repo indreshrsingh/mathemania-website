@@ -137,7 +137,7 @@ export default function CustomizedTables() {
       <TableContainer className={classes.papper}>
         <div className={classes.updateContainer}>
           <Typography className={classes.update} variant="caption">
-            After Round 1
+            After Round 2
           </Typography>
         </div>
 
@@ -151,7 +151,7 @@ export default function CustomizedTables() {
               </StyledTableCell>
               <StyledTableCell align="center">Teamname</StyledTableCell>
               <StyledTableCell align="center">Points</StyledTableCell>
-              <StyledTableCell align="center">Penalty</StyledTableCell>
+             
             </TableRow>
           </TableHead>
           <TableBody className={classes.tBody}>
@@ -175,9 +175,7 @@ export default function CustomizedTables() {
                 <StyledTableCell className={classes.body} align="center">
                 {list.Score}
                 </StyledTableCell>
-                <StyledTableCell className={classes.body} align="center">
-                {list.Penalty}
-                </StyledTableCell>
+              
                 
               </StyledTableRow>
             ))}
