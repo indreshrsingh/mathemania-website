@@ -141,16 +141,7 @@ export default function CustomizedTables() {
           </Typography>
         </div>
 
-        <Button
-          className={classes.sheetButton}
-          variant="contained"
-          color="secondary"
-          href="https://docs.google.com/spreadsheets/d/1iUALYoiQDrnqHhlw8wixINnd1Md7K_vRu_fjnxSjpHg/edit#gid=1498414682"
-          target="_blank"
-        >
-          Leaderboard Spreadsheet
-        </Button>
-
+      
         <br></br>
         <Table className={classes.table} aria-label="customized table">
           <TableHead>
