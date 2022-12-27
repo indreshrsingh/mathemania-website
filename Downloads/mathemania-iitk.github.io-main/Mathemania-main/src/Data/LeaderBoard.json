@@ -126,12 +126,30 @@
     "index": ""
   },
   {
+    "TeamName": "Guava",
+    "": "",
+    "Answer": "",
+    "Date": "",
+    "Score": 1565,
+    "Penalty": 307,
+    "index": ""
+  },
+  {
     "TeamName": "Army Ants",
     "": "",
     "Answer": "",
     "Date": "",
     "Score": 1560,
     "Penalty": 334,
+    "index": ""
+  },
+  {
+    "TeamName": "SOLO_PLAYER_10",
+    "": "",
+    "Answer": "",
+    "Date": "",
+    "Score": 1550,
+    "Penalty": "",
     "index": ""
   },
   {
@@ -177,6 +195,15 @@
     "Date": "",
     "Score": 1455,
     "Penalty": 487,
+    "index": ""
+  },
+  {
+    "TeamName": "Glass Onion",
+    "": "",
+    "Answer": "",
+    "Date": "",
+    "Score": 1435,
+    "Penalty": 392,
     "index": ""
   },
   {
@@ -297,15 +324,6 @@
     "index": ""
   },
   {
-    "TeamName": "Glass Onion",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1285,
-    "Penalty": 392,
-    "index": ""
-  },
-  {
     "TeamName": "G square",
     "": "",
     "Answer": "",
@@ -321,15 +339,6 @@
     "Date": "",
     "Score": 1270,
     "Penalty": 254,
-    "index": ""
-  },
-  {
-    "TeamName": "Guava",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1265,
-    "Penalty": 307,
     "index": ""
   },
   {
@@ -402,6 +411,15 @@
     "Date": "",
     "Score": 1200,
     "Penalty": 107,
+    "index": ""
+  },
+  {
+    "TeamName": "mathaphobia",
+    "": "",
+    "Answer": "",
+    "Date": "",
+    "Score": 1200,
+    "Penalty": "",
     "index": ""
   },
   {
@@ -600,15 +618,6 @@
     "Date": "",
     "Score": 910,
     "Penalty": 427,
-    "index": ""
-  },
-  {
-    "TeamName": "SOLO_PLAYER_10",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 900,
-    "Penalty": 457,
     "index": ""
   },
   {
