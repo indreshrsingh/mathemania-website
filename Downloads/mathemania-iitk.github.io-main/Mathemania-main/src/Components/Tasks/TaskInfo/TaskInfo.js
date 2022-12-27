@@ -230,7 +230,7 @@ function onDocumentLoadSuccess({ numPages }) {
     </object>
 }                 
                  {details.index==3 && ok>0 && <object data={QuestionPaper3} type="application/pdf" style={{height:"1500px",width:"800px"}}>
-      <p>Your browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/14y7F0ZlTRdjrScxRxPqKw4PH52gUR2PF/view?usp=drivesdk">Download PDF</a></p>
+      <p>Your browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1RlfzAOU1BJl4xCJj8K8GsC4uSpbDCGrp/view?usp=sharing">Download PDF</a></p>
     </object>
 } 
                 </ul>
