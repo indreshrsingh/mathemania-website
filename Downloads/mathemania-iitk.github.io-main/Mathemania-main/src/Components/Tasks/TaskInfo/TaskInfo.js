@@ -15,6 +15,7 @@ import Linkify from "react-linkify";
 import { useState } from "react";
 import QuestionPaper from "../../../Data/Round2_main.pdf";
 import QuestionPaper3 from "../../../Data/Round3_Final.pdf";
+import QuestionPaper1 from "../../../Data/Round3_Final.pdf";
 function TabPanel(props) {
   const { children, value, index, ...other } = props;
 
@@ -230,6 +231,10 @@ function onDocumentLoadSuccess({ numPages }) {
     </object>
 }                 
                  {details.index==3 && ok>0 && <object data={QuestionPaper3} type="application/pdf" style={{height:"1500px",width:"800px"}}>
+      <p>Your browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1RlfzAOU1BJl4xCJj8K8GsC4uSpbDCGrp/view?usp=sharing">Download PDF</a></p>
+    </object>
+}              
+                    {details.index==1  && <object data={QuestionPaper1} type="application/pdf" style={{height:"1500px",width:"800px"}}>
       <p>Your browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1RlfzAOU1BJl4xCJj8K8GsC4uSpbDCGrp/view?usp=sharing">Download PDF</a></p>
     </object>
 } 
