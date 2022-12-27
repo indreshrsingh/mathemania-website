@@ -14,7 +14,7 @@ import taskDetails from "../../../Data/tasks.json";
 import Linkify from "react-linkify";
 import { useState } from "react";
 import QuestionPaper from "../../../Data/Round2_main.pdf";
-import QuestionPaper3 from "../../../Data/Round2_main.pdf";
+import QuestionPaper3 from "../../../Data/Round3_Final.pdf";
 function TabPanel(props) {
   const { children, value, index, ...other } = props;
 
