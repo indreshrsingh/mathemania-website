@@ -14,6 +14,7 @@ import taskDetails from "../../../Data/tasks.json";
 import Linkify from "react-linkify";
 import { useState } from "react";
 import QuestionPaper from "../../../Data/Round2_main.pdf";
+import QuestionPaper3 from "../../../Data/Round2_main.pdf";
 function TabPanel(props) {
   const { children, value, index, ...other } = props;
 
@@ -128,7 +129,7 @@ export default function FullWidthTabs() {
   const currentTime = new Date().getTime();
 
 // Set the time in milliseconds for when the exam starts
-const examStartTime = new Date('2022-12-26T21:29:00').getTime();
+const examStartTime = new Date('2022-12-27T18:00:00').getTime();
 
 // Calculate the time remaining until the exam starts
 const timeUntilExamStart = examStartTime - currentTime;
@@ -224,7 +225,11 @@ function onDocumentLoadSuccess({ numPages }) {
                   {details.point5 !== "" && <li>{details.point5}</li>}
                   {details.point6 !== "" && <li>{details.point6}</li>}
                   {details.point7 !== "" && <li>{details.point7}</li>}
-                  {details.index==2 && ok>0 && <object data={QuestionPaper} type="application/pdf" style={{height:"1500px",width:"800px"}}>
+                  {details.index==2  && <object data={QuestionPaper} type="application/pdf" style={{height:"1500px",width:"800px"}}>
+      <p>Your browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/14y7F0ZlTRdjrScxRxPqKw4PH52gUR2PF/view?usp=drivesdk">Download PDF</a></p>
+    </object>
+}                 
+                 {details.index==3 && ok>0 && <object data={QuestionPaper3} type="application/pdf" style={{height:"1500px",width:"800px"}}>
       <p>Your browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/14y7F0ZlTRdjrScxRxPqKw4PH52gUR2PF/view?usp=drivesdk">Download PDF</a></p>
     </object>
 } 
