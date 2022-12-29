@@ -164,7 +164,7 @@ export default function TaskCard() {
 
                 <div className={classes.namePlace}>
                   <Typography component="h5" variant="h5" align="center">
-                   Wingies
+                   wingies
                   </Typography>
                   <Typography
                     variant="subtitle1"
@@ -177,7 +177,7 @@ export default function TaskCard() {
                 </div>
 
                 <hr color="#16548a"></hr>
-                <Typography variant="caption"></Typography>
+                <Typography variant="caption">Parth Patel,Pravar Kataria,Kushagra Gupta</Typography>
               </CardContent>
             </div>
           </Card>
@@ -213,7 +213,7 @@ export default function TaskCard() {
                 </div>
 
                 <hr color="#16548a"></hr>
-                <Typography variant="caption"></Typography>
+                <Typography variant="caption">Monil Lodha,Arnav Pati,Aditya Vats </Typography>
               </CardContent>
             </div>
           </Card>
@@ -244,7 +244,7 @@ export default function TaskCard() {
                 </div>
 
                 <hr color="#16548a"></hr>
-                <Typography variant="caption"></Typography>
+                <Typography variant="caption">Gaurav Manwani,Varun Murlidharan,Sarthak Rout,Devanshu Singla</Typography>
               </CardContent>
             </div>
           </Card>
