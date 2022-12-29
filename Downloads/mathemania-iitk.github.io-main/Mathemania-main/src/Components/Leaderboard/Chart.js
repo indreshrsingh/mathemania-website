@@ -157,7 +157,12 @@ export default function CustomizedTables() {
                 Rank
               </StyledTableCell>
               <StyledTableCell align="center">Teamname</StyledTableCell>
+              <StyledTableCell align="center">Round 1</StyledTableCell>
+              <StyledTableCell align="center">Round 2</StyledTableCell>
+              <StyledTableCell align="center">Round 3</StyledTableCell>
               <StyledTableCell align="center">Points</StyledTableCell>
+              <StyledTableCell align="center">Points</StyledTableCell>
+              <StyledTableCell align="center">Tie Breaker</StyledTableCell>
              
             </TableRow>
           </TableHead>
@@ -179,8 +184,21 @@ export default function CustomizedTables() {
                   {list.TeamName}
                 
                 </StyledTableCell>
+               <StyledTableCell className={classes.body} align="center">
+                  {list.Round1}
+                 </StyledTableCell>
+                <StyledTableCell className={classes.body} align="center">
+                  {list.Round2}
+                </StyledTableCell>
+                 <StyledTableCell className={classes.body} align="center">
+                  {list.Round3}
+                </StyledTableCell>
                 <StyledTableCell className={classes.body} align="center">
                 {list.TotalScore}
+                </StyledTableCell> 
+                <StyledTableCell className={classes.body} align="center">
+                  {list.TieBreak}
+                
                 </StyledTableCell>
               
                 
