@@ -236,7 +236,7 @@ export default function TaskCard() {
                   <Typography
                     variant="subtitle1"
                     color="textSecondary"
-                    align="center"
+                   
                     className={classes.cat}
                   >
                     All-Round 2nd Runner Up
