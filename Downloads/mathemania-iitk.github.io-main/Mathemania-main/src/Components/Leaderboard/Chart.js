@@ -176,11 +176,11 @@ export default function CustomizedTables() {
                   {index+1}
                 </StyledTableCell>
                 <StyledTableCell className={classes.body} align="center">
-                  {list.Team Name}
+                  {list.TeamName}
                 
                 </StyledTableCell>
                 <StyledTableCell className={classes.body} align="center">
-                {list.Total Score}
+                {list.TotalScore}
                 </StyledTableCell>
               
                 
