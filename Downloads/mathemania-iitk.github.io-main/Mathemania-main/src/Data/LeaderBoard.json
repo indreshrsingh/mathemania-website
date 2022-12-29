@@ -1,1739 +1,1338 @@
 [
   {
-    "TeamName": "druhin's fanclub",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1970,
-    "Penalty": 306,
-    "index": ""
-  },
-  {
-    "TeamName": "wingies",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1960,
-    "Penalty": 320,
-    "index": ""
-  },
-  {
-    "TeamName": 1729,
-    "": "adityathomas2003@gmail.com",
-    "Answer": "",
-    "Date": "",
-    "Score": 1955,
-    "Penalty": 316,
-    "index": ""
-  },
-  {
-    "TeamName": "Infiknights",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1770,
-    "Penalty": 373,
-    "index": ""
-  },
-  {
-    "TeamName": "Meth_piros",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1730,
-    "Penalty": 376,
-    "index": ""
-  },
-  {
-    "TeamName": "X Finders",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1725,
-    "Penalty": 524,
-    "index": ""
-  },
-  {
-    "TeamName": "kuch bhi",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1640,
-    "Penalty": 210,
-    "index": ""
-  },
-  {
-    "TeamName": "Uff_Bhai",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1635,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "Straw Hats",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1610,
-    "Penalty": 115,
-    "index": ""
-  },
-  {
-    "TeamName": "Drink and Derive",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1600,
-    "Penalty": 229,
-    "index": ""
-  },
-  {
-    "TeamName": "Kachua N Khargosh",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1595,
-    "Penalty": 535,
-    "index": ""
-  },
-  {
-    "TeamName": "Cats of IIT Delhi",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1590,
-    "Penalty": 222,
-    "index": ""
-  },
-  {
-    "TeamName": "The Owls",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1570,
-    "Penalty": 218,
-    "index": ""
-  },
-  {
-    "TeamName": "Epsilon Delta",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1565,
-    "Penalty": 208,
-    "index": ""
-  },
-  {
-    "TeamName": "Guava",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1565,
-    "Penalty": 307,
-    "index": ""
-  },
-  {
-    "TeamName": "Army Ants",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1560,
-    "Penalty": 334,
-    "index": ""
-  },
-  {
-    "TeamName": "SOLO_PLAYER_10",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1550,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "The Exponents",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1490,
-    "Penalty": 238,
-    "index": ""
-  },
-  {
-    "TeamName": "Calcoholics",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1490,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "HaymitchOP",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1485,
-    "Penalty": 353,
-    "index": ""
-  },
-  {
-    "TeamName": "The Rationals",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1465,
-    "Penalty": 244,
-    "index": ""
-  },
-  {
-    "TeamName": "Zorn's Lemma",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1455,
-    "Penalty": 487,
-    "index": ""
-  },
-  {
-    "TeamName": "Glass Onion",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1435,
-    "Penalty": 392,
-    "index": ""
-  },
-  {
-    "TeamName": "Mathlomaniacs",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1430,
-    "Penalty": 319,
-    "index": ""
-  },
-  {
-    "TeamName": "Tadap",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1410,
-    "Penalty": 104,
-    "index": ""
-  },
-  {
-    "TeamName": "MNC Wizards",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1405,
-    "Penalty": 184,
-    "index": ""
-  },
-  {
-    "TeamName": "Goldbach's crackajacks",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1370,
-    "Penalty": 268,
-    "index": ""
-  },
-  {
-    "TeamName": "District 12th",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1360,
-    "Penalty": 285,
-    "index": ""
-  },
-  {
-    "TeamName": "Alphaqube",
-    "": "karthiknagasamudram1619@gmail.com",
-    "Answer": "",
-    "Date": "",
-    "Score": 1355,
-    "Penalty": 146,
-    "index": ""
-  },
-  {
-    "TeamName": "Team Epsylem",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1350,
-    "Penalty": 235,
-    "index": ""
-  },
-  {
-    "TeamName": "Nahi Degi",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1345,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "Mighty Eagle",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1330,
-    "Penalty": 191,
-    "index": ""
-  },
-  {
-    "TeamName": "The X-Ecutors",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1330,
-    "Penalty": 170,
-    "index": ""
-  },
-  {
-    "TeamName": "Lets go",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1325,
-    "Penalty": 220,
-    "index": ""
-  },
-  {
-    "TeamName": "mockingbird",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1325,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "mathletics",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1285,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "G square",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1275,
-    "Penalty": 160,
-    "index": ""
-  },
-  {
-    "TeamName": "District 404",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1270,
-    "Penalty": 254,
-    "index": ""
-  },
-  {
-    "TeamName": "Cool doods",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1250,
-    "Penalty": 346,
-    "index": ""
-  },
-  {
-    "TeamName": "MTH ki MKC",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1250,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "Mathlords",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1250,
-    "Penalty": 176,
-    "index": ""
-  },
-  {
-    "TeamName": "Ham nahi sudhrenge",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1250,
-    "Penalty": 280,
-    "index": ""
-  },
-  {
-    "TeamName": "Stavenix",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1225,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "asdfg;lkjh",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1220,
-    "Penalty": 208,
-    "index": ""
-  },
-  {
-    "TeamName": "Archimedes ke circles",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1210,
-    "Penalty": 326,
-    "index": ""
-  },
-  {
-    "TeamName": "Mockingjay Mathemaniacs",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1200,
-    "Penalty": 107,
-    "index": ""
-  },
-  {
-    "TeamName": "mathaphobia",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1200,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "Peanut Butter Pancake",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1180,
-    "Penalty": 414,
-    "index": ""
-  },
-  {
-    "TeamName": "The Team",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1160,
-    "Penalty": 278,
-    "index": ""
-  },
-  {
-    "TeamName": "Dominators",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1155,
-    "Penalty": 324,
-    "index": ""
-  },
-  {
-    "TeamName": "Algebros",
-    "": "rudranshg21@iitk.ac.in",
-    "Answer": "",
-    "Date": "",
-    "Score": 1150,
-    "Penalty": 301,
-    "index": ""
-  },
-  {
-    "TeamName": "Archies",
-    "": "prerakag22@iitk.ac.in",
-    "Answer": "",
-    "Date": "",
-    "Score": 1145,
-    "Penalty": 219,
-    "index": ""
-  },
-  {
-    "TeamName": "Limit doesn't exist",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1145,
-    "Penalty": 240,
-    "index": ""
-  },
-  {
-    "TeamName": "Dharacharyas",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1140,
-    "Penalty": 194,
-    "index": ""
-  },
-  {
-    "TeamName": "team x",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1140,
-    "Penalty": 192,
-    "index": ""
-  },
-  {
-    "TeamName": "zoobicles",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1135,
-    "Penalty": 45,
-    "index": ""
-  },
-  {
-    "TeamName": "God created integers",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1125,
-    "Penalty": 292,
-    "index": ""
-  },
-  {
-    "TeamName": "SARS",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1105,
-    "Penalty": 244,
-    "index": ""
-  },
-  {
-    "TeamName": "2+2 is 4 , -1 that’s 3 , quick maths",
-    "": "khimasiakrish@gmail.com",
-    "Answer": "",
-    "Date": "",
-    "Score": 1070,
-    "Penalty": 157,
-    "index": ""
-  },
-  {
-    "TeamName": "Jharkhandi",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1050,
-    "Penalty": 55,
-    "index": ""
-  },
-  {
-    "TeamName": "Young Ramanujans",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1035,
-    "Penalty": 30,
-    "index": ""
-  },
-  {
-    "TeamName": "Passion Chasers",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1025,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "Henceprovers",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1015,
-    "Penalty": 103,
-    "index": ""
-  },
-  {
-    "TeamName": "Fourier Front",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 1010,
-    "Penalty": 238,
-    "index": ""
-  },
-  {
-    "TeamName": "Don't Know",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 980,
-    "Penalty": 478,
-    "index": ""
-  },
-  {
-    "TeamName": "Ganitagya",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 980,
-    "Penalty": 284,
-    "index": ""
-  },
-  {
-    "TeamName": "yeh duniya mittal di",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 955,
-    "Penalty": 386,
-    "index": ""
-  },
-  {
-    "TeamName": "mathemagicians",
-    "": "siddhantgabusinghai@gmail.com",
-    "Answer": "",
-    "Date": "",
-    "Score": 935,
-    "Penalty": 215,
-    "index": ""
-  },
-  {
-    "TeamName": "F Temple",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 910,
-    "Penalty": 427,
-    "index": ""
-  },
-  {
-    "TeamName": "Geekfreaks",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 900,
-    "Penalty": 356,
-    "index": ""
-  },
-  {
-    "TeamName": "Math Wizards",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 890,
-    "Penalty": 600,
-    "index": ""
-  },
-  {
-    "TeamName": "MTH ki MKB",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 875,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "Meth_piros",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 860,
-    "Penalty": 88,
-    "index": ""
-  },
-  {
-    "TeamName": "4*4",
-    "": "bhawariyajaat@gmail.com",
-    "Answer": "",
-    "Date": "",
-    "Score": 830,
-    "Penalty": 302,
-    "index": ""
-  },
-  {
-    "TeamName": "SDHM",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 825,
-    "Penalty": 169,
-    "index": ""
-  },
-  {
-    "TeamName": 1200,
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 800,
-    "Penalty": 339,
-    "index": ""
-  },
-  {
-    "TeamName": "Team Exponents",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 790,
-    "Penalty": 433,
-    "index": ""
-  },
-  {
-    "TeamName": "The Limit Does Not Exist",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 775,
-    "Penalty": 257,
-    "index": ""
-  },
-  {
-    "TeamName": "Limit Breakers",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 770,
-    "Penalty": 183,
-    "index": ""
-  },
-  {
-    "TeamName": "onE",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 750,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "Squared_pie",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 750,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "MATHEMAGICIAN",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 725,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "Epsilion squard",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 700,
-    "Penalty": 440,
-    "index": ""
-  },
-  {
-    "TeamName": "Glitch",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 700,
-    "Penalty": 345,
-    "index": ""
-  },
-  {
-    "TeamName": "lonecoder",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 700,
-    "Penalty": 343,
-    "index": ""
-  },
-  {
-    "TeamName": "Sexy sexy hall 3",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 700,
-    "Penalty": 245,
-    "index": ""
-  },
-  {
-    "TeamName": "The Rumbling",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 700,
-    "Penalty": 398,
-    "index": ""
-  },
-  {
-    "TeamName": "Algebros",
-    "": "babandeep_s@ce.iitr.ac.in",
-    "Answer": "",
-    "Date": "",
-    "Score": 700,
-    "Penalty": 216,
-    "index": ""
-  },
-  {
-    "TeamName": "3 hi kafi hai",
-    "": "sahilkg22@iitk.ac.in",
-    "Answer": "",
-    "Date": "",
-    "Score": 690,
-    "Penalty": 338,
-    "index": ""
-  },
-  {
-    "TeamName": "acidic",
-    "": "sachin_g@mfs.iitr.ac.in",
-    "Answer": "",
-    "Date": "",
-    "Score": 600,
-    "Penalty": 302,
-    "index": ""
-  },
-  {
-    "TeamName": "Dabbey",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 600,
-    "Penalty": 171,
-    "index": ""
-  },
-  {
-    "TeamName": "Lone4",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 600,
-    "Penalty": 223,
-    "index": ""
-  },
-  {
-    "TeamName": "Marcos",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 600,
-    "Penalty": 124,
-    "index": ""
-  },
-  {
-    "TeamName": "mathemagician",
-    "": "harshit.sharma1105@gmail.com",
-    "Answer": "",
-    "Date": "",
-    "Score": 600,
-    "Penalty": 220,
-    "index": ""
-  },
-  {
-    "TeamName": "Mathemania's Katniss Everdeen",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 600,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "solow",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 600,
-    "Penalty": 344,
-    "index": ""
-  },
-  {
-    "TeamName": "Jai Shree Ram🚩🚩",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 590,
-    "Penalty": 156,
-    "index": ""
-  },
-  {
-    "TeamName": "Alpha",
-    "": "girdharchirag828@gmail.com",
-    "Answer": "",
-    "Date": "",
-    "Score": 580,
-    "Penalty": 187,
-    "index": ""
-  },
-  {
-    "TeamName": "4 Hungeries",
-    "": "singlakanav2012@gmail.com",
-    "Answer": "",
-    "Date": "",
-    "Score": 570,
-    "Penalty": 193,
-    "index": ""
-  },
-  {
-    "TeamName": "The Zeros",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 570,
-    "Penalty": 283,
-    "index": ""
-  },
-  {
-    "TeamName": "Team STFU",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 530,
-    "Penalty": 367,
-    "index": ""
-  },
-  {
-    "TeamName": "Banglae Bol",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 500,
-    "Penalty": 281,
-    "index": ""
-  },
-  {
-    "TeamName": "illuminati",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 500,
-    "Penalty": 111,
-    "index": ""
-  },
-  {
-    "TeamName": "Infinity pi",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 500,
-    "Penalty": 173,
-    "index": ""
-  },
-  {
-    "TeamName": "Jaguar",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 500,
-    "Penalty": 172,
-    "index": ""
-  },
-  {
-    "TeamName": "MATH-amphetamine",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 500,
-    "Penalty": 248,
-    "index": ""
-  },
-  {
-    "TeamName": "Mathaminds",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 500,
-    "Penalty": 176,
-    "index": ""
-  },
-  {
-    "TeamName": "Matheletics",
-    "": "divyansh_j@cs.iitr.ac.in",
-    "Answer": "",
-    "Date": "",
-    "Score": 500,
-    "Penalty": 447,
-    "index": ""
-  },
-  {
-    "TeamName": "Pie:: Irrational",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 500,
-    "Penalty": 55,
-    "index": ""
-  },
-  {
-    "TeamName": "Plus Minus",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 500,
-    "Penalty": 111,
-    "index": ""
-  },
-  {
-    "TeamName": "RamANUJan",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 500,
-    "Penalty": 457,
-    "index": ""
-  },
-  {
-    "TeamName": "Ravan",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 500,
-    "Penalty": 156,
-    "index": ""
-  },
-  {
-    "TeamName": "Tompers",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 500,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "Varahmihir",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 500,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "alphaQ",
-    "": "reeshipaul35@gmail.com",
-    "Answer": "",
-    "Date": "",
-    "Score": 490,
-    "Penalty": 170,
-    "index": ""
-  },
-  {
-    "TeamName": "Helios",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 490,
-    "Penalty": 202,
-    "index": ""
-  },
-  {
-    "TeamName": "Fantastic 100",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 480,
-    "Penalty": 237,
-    "index": ""
-  },
-  {
-    "TeamName": "timepass",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 400,
-    "Penalty": 248,
-    "index": ""
-  },
-  {
-    "TeamName": "Congruence",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 400,
-    "Penalty": 162,
-    "index": ""
-  },
-  {
-    "TeamName": "Fluffy's fluffies",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 400,
-    "Penalty": 93,
-    "index": ""
-  },
-  {
-    "TeamName": "Kiss our Axes",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 400,
-    "Penalty": 20,
-    "index": ""
-  },
-  {
-    "TeamName": "Leaders",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 400,
-    "Penalty": 75,
-    "index": ""
-  },
-  {
-    "TeamName": "M a t h s -  π r a t e s",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 400,
-    "Penalty": 220,
-    "index": ""
-  },
-  {
-    "TeamName": "Mathchamps",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 400,
-    "Penalty": 190,
-    "index": ""
-  },
-  {
-    "TeamName": "Mathematica5733",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 400,
-    "Penalty": 290,
-    "index": ""
-  },
-  {
-    "TeamName": "Mathists",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 400,
-    "Penalty": 373,
-    "index": ""
-  },
-  {
-    "TeamName": "Mathmagician",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 400,
-    "Penalty": 104,
-    "index": ""
-  },
-  {
-    "TeamName": "Oopsilons",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 400,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "panik2022",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 400,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "Quick Quadruple",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 400,
-    "Penalty": 50,
-    "index": ""
-  },
-  {
-    "TeamName": "SKKS - The facers",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 400,
-    "Penalty": 240,
-    "index": ""
-  },
-  {
-    "TeamName": "Mathologer",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 400,
-    "Penalty": 136,
-    "index": ""
-  },
-  {
-    "TeamName": "Maniacs",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 400,
-    "Penalty": 38,
-    "index": ""
-  },
-  {
-    "TeamName": "Gaussian Gamblers",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 390,
-    "Penalty": 280,
-    "index": ""
-  },
-  {
-    "TeamName": "Rational 3.14",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 390,
-    "Penalty": 178,
-    "index": ""
-  },
-  {
-    "TeamName": "Team",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 390,
-    "Penalty": 31,
-    "index": ""
-  },
-  {
-    "TeamName": "Team Solo",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 390,
-    "Penalty": 63,
-    "index": ""
-  },
-  {
-    "TeamName": "The_Alchemists",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 390,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "Mathophillia",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 300,
-    "Penalty": 56,
-    "index": ""
-  },
-  {
-    "TeamName": "Akatsuki",
-    "": "iitgameraryan@gmail.com",
-    "Answer": "",
-    "Date": "",
-    "Score": 300,
-    "Penalty": 140,
-    "index": ""
-  },
-  {
-    "TeamName": "FINFINITY",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 300,
-    "Penalty": 457,
-    "index": ""
-  },
-  {
-    "TeamName": "First Class",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 300,
-    "Penalty": 221,
-    "index": ""
-  },
-  {
-    "TeamName": "Hunger Games",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 300,
-    "Penalty": 53,
-    "index": ""
-  },
-  {
-    "TeamName": "INQUISIVITA",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 300,
-    "Penalty": 169,
-    "index": ""
-  },
-  {
-    "TeamName": "mathemagician",
-    "": "bhardwajayushpatna@gmail.com",
-    "Answer": "",
-    "Date": "",
-    "Score": 300,
-    "Penalty": 129,
-    "index": ""
-  },
-  {
-    "TeamName": "Mathemania's Katniss Everdeen",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 300,
-    "Penalty": 83,
-    "index": ""
-  },
-  {
-    "TeamName": "Mathleads",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 300,
-    "Penalty": 174,
-    "index": ""
-  },
-  {
-    "TeamName": "Parsec",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 300,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "SUG",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 300,
-    "Penalty": 68,
-    "index": ""
-  },
-  {
-    "TeamName": "The Upshot",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 300,
-    "Penalty": 37,
-    "index": ""
-  },
-  {
-    "TeamName": "Mechies",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 290,
-    "Penalty": 31,
-    "index": ""
-  },
-  {
-    "TeamName": "Aviators",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 290,
-    "Penalty": 48,
-    "index": ""
-  },
-  {
-    "TeamName": "TheSoulexplorer",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 290,
-    "Penalty": 95,
-    "index": ""
-  },
-  {
-    "TeamName": "Divergent",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 200,
-    "Penalty": 43,
-    "index": ""
-  },
-  {
-    "TeamName": "EVER TRY TO DEAL WITH PIE",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 200,
-    "Penalty": 124,
-    "index": ""
-  },
-  {
-    "TeamName": "Fibonacci",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 200,
-    "Penalty": 99,
-    "index": ""
-  },
-  {
-    "TeamName": "Mathematica5733",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 200,
-    "Penalty": 32,
-    "index": ""
-  },
-  {
-    "TeamName": "Mathists",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 200,
-    "Penalty": 50,
-    "index": ""
-  },
-  {
-    "TeamName": "opboyz",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 200,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "S30Squad",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 200,
-    "Penalty": 83,
-    "index": ""
-  },
-  {
-    "TeamName": "Spei boyz",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 200,
-    "Penalty": 155,
-    "index": ""
-  },
-  {
-    "TeamName": "Starlink",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 200,
-    "Penalty": 14,
-    "index": ""
-  },
-  {
-    "TeamName": "Team kj",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 200,
-    "Penalty": 113,
-    "index": ""
-  },
-  {
-    "TeamName": "Team Atharv",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 190,
-    "Penalty": 67,
-    "index": ""
-  },
-  {
-    "TeamName": "Team Cal-coholics",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 180,
-    "Penalty": 34,
-    "index": ""
-  },
-  {
-    "TeamName": "Army Ants 2.0",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 100,
-    "Penalty": 7,
-    "index": ""
-  },
-  {
-    "TeamName": "Eshaan",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 100,
-    "Penalty": 80,
-    "index": ""
-  },
-  {
-    "TeamName": "Fourier Front",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 100,
-    "Penalty": 34,
-    "index": ""
-  },
-  {
-    "TeamName": "hehe123",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 100,
-    "Penalty": 83,
-    "index": ""
-  },
-  {
-    "TeamName": "HELLO World",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 100,
-    "Penalty": 46,
-    "index": ""
-  },
-  {
-    "TeamName": "Maniacs",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 100,
-    "Penalty": 34,
-    "index": ""
-  },
-  {
-    "TeamName": "Mathaminds",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 100,
-    "Penalty": 16,
-    "index": ""
-  },
-  {
-    "TeamName": "Mathemagicians",
-    "": "harshit.sharma1105@gmail.com",
-    "Answer": "",
-    "Date": "",
-    "Score": 100,
-    "Penalty": 33,
-    "index": ""
-  },
-  {
-    "TeamName": "Maths Wizards",
-    "": "harshitchhikara29@gmail.com",
-    "Answer": "",
-    "Date": "",
-    "Score": 100,
-    "Penalty": 67,
-    "index": ""
-  },
-  {
-    "TeamName": "Pollbeater",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 100,
-    "Penalty": 56,
-    "index": ""
-  },
-  {
-    "TeamName": "Saksham",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 100,
-    "Penalty": 39,
-    "index": ""
-  },
-  {
-    "TeamName": "Team Invincible",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 100,
-    "Penalty": 17,
-    "index": ""
-  },
-  {
-    "TeamName": "MATHEMATICIAN",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 100,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "Mathspro",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 100,
-    "Penalty": 52,
-    "index": ""
-  },
-  {
-    "TeamName": "crazy_xyz",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 90,
-    "Penalty": 83,
-    "index": ""
-  },
-  {
-    "TeamName": "hvfkze",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 0,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "junk",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 0,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "Pavan",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 0,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "Peta_is_the_best",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 0,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "The Explorers",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 0,
-    "Penalty": 0,
-    "index": ""
-  },
-  {
-    "TeamName": "Wizard of mathematics",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 0,
-    "Penalty": 0,
-    "index": ""
-  },
-  {
-    "TeamName": "mircga",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 0,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "MMVS",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": 0,
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": "",
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": "",
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": "",
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "Manthan",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": "",
-    "Penalty": "",
-    "index": ""
-  },
-  {
-    "TeamName": "MMVS",
-    "": "",
-    "Answer": "",
-    "Date": "",
-    "Score": "",
-    "Penalty": "",
-    "index": ""
+    "Team Name": "wingies",
+    "Round 1": 1090,
+    "Round 2": 870,
+    "Round 3": 3000,
+    "Total Score": 4960,
+    "Tie-Break": 385
+  },
+  {
+    "Team Name": 1729,
+    "Round 1": 880,
+    "Round 2": 1075,
+    "Round 3": 2400,
+    "Total Score": 4355,
+    "Tie-Break": 316
+  },
+  {
+    "Team Name": "Army Ants",
+    "Round 1": 880,
+    "Round 2": 570,
+    "Round 3": 2850,
+    "Total Score": 4300,
+    "Tie-Break": 334
+  },
+  {
+    "Team Name": "druhin's fanclub",
+    "Round 1": 990,
+    "Round 2": 970,
+    "Round 3": 2250,
+    "Total Score": 4210,
+    "Tie-Break": 306
+  },
+  {
+    "Team Name": "Cats of IIT Delhi",
+    "Round 1": 800,
+    "Round 2": 890,
+    "Round 3": 2500,
+    "Total Score": 4190,
+    "Tie-Break": 294
+  },
+  {
+    "Team Name": "Calcoholics",
+    "Round 1": 790,
+    "Round 2": 700,
+    "Round 3": 2480,
+    "Total Score": 3970,
+    "Tie-Break": 238
+  },
+  {
+    "Team Name": "Infiknights",
+    "Round 1": 880,
+    "Round 2": 870,
+    "Round 3": 2200,
+    "Total Score": 3950,
+    "Tie-Break": 373
+  },
+  {
+    "Team Name": "The Owls",
+    "Round 1": 680,
+    "Round 2": 880,
+    "Round 3": 2300,
+    "Total Score": 3860,
+    "Tie-Break": 218
+  },
+  {
+    "Team Name": "HaymitchOP",
+    "Round 1": 790,
+    "Round 2": 695,
+    "Round 3": 2300,
+    "Total Score": 3785,
+    "Tie-Break": 353
+  },
+  {
+    "Team Name": "X Finders",
+    "Round 1": 750,
+    "Round 2": 875,
+    "Round 3": 2050,
+    "Total Score": 3675,
+    "Tie-Break": 524
+  },
+  {
+    "Team Name": "District 12th",
+    "Round 1": 660,
+    "Round 2": 700,
+    "Round 3": 2200,
+    "Total Score": 3560,
+    "Tie-Break": 285
+  },
+  {
+    "Team Name": "MNC Wizards",
+    "Round 1": 780,
+    "Round 2": 625,
+    "Round 3": 1980,
+    "Total Score": 3385,
+    "Tie-Break": 356
+  },
+  {
+    "Team Name": "The Rationals",
+    "Round 1": 690,
+    "Round 2": 775,
+    "Round 3": 1850,
+    "Total Score": 3315,
+    "Tie-Break": 244
+  },
+  {
+    "Team Name": "Kachua N Khargosh",
+    "Round 1": 760,
+    "Round 2": 795,
+    "Round 3": 1750,
+    "Total Score": 3305,
+    "Tie-Break": 344
+  },
+  {
+    "Team Name": "SOLO_PLAYER_10",
+    "Round 1": 900,
+    "Round 2": 650,
+    "Round 3": 1750,
+    "Total Score": 3300,
+    "Tie-Break": 457
+  },
+  {
+    "Team Name": "Meth_piros",
+    "Round 1": 1000,
+    "Round 2": 730,
+    "Round 3": 1550,
+    "Total Score": 3280,
+    "Tie-Break": 374
+  },
+  {
+    "Team Name": "Team Epsylem",
+    "Round 1": 700,
+    "Round 2": 750,
+    "Round 3": 1650,
+    "Total Score": 3100,
+    "Tie-Break": 224
+  },
+  {
+    "Team Name": "kuch bhi",
+    "Round 1": 830,
+    "Round 2": 740,
+    "Round 3": 1400,
+    "Total Score": 2970,
+    "Tie-Break": 390
+  },
+  {
+    "Team Name": "Straw Hats",
+    "Round 1": 800,
+    "Round 2": 810,
+    "Round 3": 1350,
+    "Total Score": 2960,
+    "Tie-Break": 302
+  },
+  {
+    "Team Name": "The X-Ecutors",
+    "Round 1": 600,
+    "Round 2": 730,
+    "Round 3": 1500,
+    "Total Score": 2830,
+    "Tie-Break": 170
+  },
+  {
+    "Team Name": "Epsilon Delta",
+    "Round 1": 800,
+    "Round 2": 765,
+    "Round 3": 1200,
+    "Total Score": 2765,
+    "Tie-Break": 278
+  },
+  {
+    "Team Name": "Guava",
+    "Round 1": 900,
+    "Round 2": 665,
+    "Round 3": 1150,
+    "Total Score": 2715,
+    "Tie-Break": 416
+  },
+  {
+    "Team Name": "Mathlomaniacs",
+    "Round 1": 640,
+    "Round 2": 740,
+    "Round 3": 1300,
+    "Total Score": 2680,
+    "Tie-Break": 319
+  },
+  {
+    "Team Name": "The Exponents",
+    "Round 1": 790,
+    "Round 2": 700,
+    "Round 3": 1100,
+    "Total Score": 2590,
+    "Tie-Break": 388
+  },
+  {
+    "Team Name": "Uff_Bhai",
+    "Round 1": 700,
+    "Round 2": 835,
+    "Round 3": 900,
+    "Total Score": 2435,
+    "Tie-Break": 144
+  },
+  {
+    "Team Name": "Goldbach's crackajacks",
+    "Round 1": 690,
+    "Round 2": 670,
+    "Round 3": 1000,
+    "Total Score": 2360,
+    "Tie-Break": 268
+  },
+  {
+    "Team Name": "Mighty Eagle",
+    "Round 1": 800,
+    "Round 2": 550,
+    "Round 3": 700,
+    "Total Score": 2050,
+    "Tie-Break": 311
+  },
+  {
+    "Team Name": "Zorn's Lemma",
+    "Round 1": 800,
+    "Round 2": 655,
+    "Round 3": 300,
+    "Total Score": 1755,
+    "Tie-Break": 487
+  },
+  {
+    "Team Name": "Alphaqube",
+    "Round 1": 700,
+    "Round 2": 655,
+    "Round 3": 250,
+    "Total Score": 1605,
+    "Tie-Break": 163
+  },
+  {
+    "Team Name": "Drink and Derive",
+    "Round 1": 650,
+    "Round 2": 950,
+    "Round 3": "",
+    "Total Score": 1600,
+    "Tie-Break": 248
+  },
+  {
+    "Team Name": "Tadap",
+    "Round 1": 770,
+    "Round 2": 800,
+    "Round 3": "",
+    "Total Score": 1570,
+    "Tie-Break": 418
+  },
+  {
+    "Team Name": "Glass Onion",
+    "Round 1": 700,
+    "Round 2": 735,
+    "Round 3": "",
+    "Total Score": 1435,
+    "Tie-Break": 324
+  },
+  {
+    "Team Name": "Nahi Degi",
+    "Round 1": 770,
+    "Round 2": 575,
+    "Round 3": "",
+    "Total Score": 1345,
+    "Tie-Break": 302
+  },
+  {
+    "Team Name": "mockingbird",
+    "Round 1": 700,
+    "Round 2": 625,
+    "Round 3": "",
+    "Total Score": 1325,
+    "Tie-Break": 295
+  },
+  {
+    "Team Name": "Stavenix",
+    "Round 1": 700,
+    "Round 2": 625,
+    "Round 3": "",
+    "Total Score": 1325,
+    "Tie-Break": 277
+  },
+  {
+    "Team Name": "Archimedes ke circles",
+    "Round 1": 790,
+    "Round 2": 500,
+    "Round 3": "",
+    "Total Score": 1290,
+    "Tie-Break": 412
+  },
+  {
+    "Team Name": "Peanut Butter Pancake",
+    "Round 1": 700,
+    "Round 2": 580,
+    "Round 3": "",
+    "Total Score": 1280,
+    "Tie-Break": 499
+  },
+  {
+    "Team Name": "G Square",
+    "Round 1": 600,
+    "Round 2": 675,
+    "Round 3": "",
+    "Total Score": 1275,
+    "Tie-Break": 160
+  },
+  {
+    "Team Name": "District-404",
+    "Round 1": 690,
+    "Round 2": 580,
+    "Round 3": "",
+    "Total Score": 1270,
+    "Tie-Break": 254
+  },
+  {
+    "Team Name": "Cool doods",
+    "Round 1": 780,
+    "Round 2": 470,
+    "Round 3": "",
+    "Total Score": 1250,
+    "Tie-Break": 346
+  },
+  {
+    "Team Name": "MTH ki MKC",
+    "Round 1": 770,
+    "Round 2": 480,
+    "Round 3": "",
+    "Total Score": 1250,
+    "Tie-Break": 346
+  },
+  {
+    "Team Name": "Ham nahi sudhrenge",
+    "Round 1": 600,
+    "Round 2": 650,
+    "Round 3": "",
+    "Total Score": 1250,
+    "Tie-Break": 280
+  },
+  {
+    "Team Name": "Mathlords",
+    "Round 1": 690,
+    "Round 2": 550,
+    "Round 3": "",
+    "Total Score": 1240,
+    "Tie-Break": 176
+  },
+  {
+    "Team Name": "God created integers",
+    "Round 1": 800,
+    "Round 2": 425,
+    "Round 3": "",
+    "Total Score": 1225,
+    "Tie-Break": 312
+  },
+  {
+    "Team Name": "Lets go",
+    "Round 1": 700,
+    "Round 2": 525,
+    "Round 3": "",
+    "Total Score": 1225,
+    "Tie-Break": 283
+  },
+  {
+    "Team Name": "asdfg;lkjh",
+    "Round 1": 680,
+    "Round 2": 540,
+    "Round 3": "",
+    "Total Score": 1220,
+    "Tie-Break": 208
+  },
+  {
+    "Team Name": "mathaphobia",
+    "Round 1": 800,
+    "Round 2": 400,
+    "Round 3": "",
+    "Total Score": 1200,
+    "Tie-Break": 339
+  },
+  {
+    "Team Name": "Mockingjay Mathemaniacs",
+    "Round 1": 600,
+    "Round 2": 600,
+    "Round 3": "",
+    "Total Score": 1200,
+    "Tie-Break": 227
+  },
+  {
+    "Team Name": "The Team",
+    "Round 1": 700,
+    "Round 2": 450,
+    "Round 3": "",
+    "Total Score": 1150,
+    "Tie-Break": 278
+  },
+  {
+    "Team Name": "Limit doesn't exist",
+    "Round 1": 600,
+    "Round 2": 545,
+    "Round 3": "",
+    "Total Score": 1145,
+    "Tie-Break": 229
+  },
+  {
+    "Team Name": "Archies",
+    "Round 1": 670,
+    "Round 2": 475,
+    "Round 3": "",
+    "Total Score": 1145,
+    "Tie-Break": 219
+  },
+  {
+    "Team Name": "Dharacharyas",
+    "Round 1": 690,
+    "Round 2": 450,
+    "Round 3": "",
+    "Total Score": 1140,
+    "Tie-Break": 226
+  },
+  {
+    "Team Name": "Team x",
+    "Round 1": 600,
+    "Round 2": 540,
+    "Round 3": "",
+    "Total Score": 1140,
+    "Tie-Break": 192
+  },
+  {
+    "Team Name": "zoobicles",
+    "Round 1": 680,
+    "Round 2": 455,
+    "Round 3": "",
+    "Total Score": 1135,
+    "Tie-Break": 294
+  },
+  {
+    "Team Name": "SARS",
+    "Round 1": 600,
+    "Round 2": 505,
+    "Round 3": "",
+    "Total Score": 1105,
+    "Tie-Break": 244
+  },
+  {
+    "Team Name": "yeh duniya mittal di",
+    "Round 1": 770,
+    "Round 2": 325,
+    "Round 3": "",
+    "Total Score": 1095,
+    "Tie-Break": 288
+  },
+  {
+    "Team Name": "2+2 is 4 , -1 that’s 3 , quick maths",
+    "Round 1": 600,
+    "Round 2": 470,
+    "Round 3": "",
+    "Total Score": 1070,
+    "Tie-Break": 193
+  },
+  {
+    "Team Name": "Algebros #2",
+    "Round 1": 690,
+    "Round 2": 375,
+    "Round 3": "",
+    "Total Score": 1065,
+    "Tie-Break": 257
+  },
+  {
+    "Team Name": "Dominators",
+    "Round 1": 600,
+    "Round 2": 455,
+    "Round 3": "",
+    "Total Score": 1055,
+    "Tie-Break": 157
+  },
+  {
+    "Team Name": "Jharkhandi",
+    "Round 1": 590,
+    "Round 2": 450,
+    "Round 3": "",
+    "Total Score": 1040,
+    "Tie-Break": 313
+  },
+  {
+    "Team Name": "Passion Chasers",
+    "Round 1": 700,
+    "Round 2": 325,
+    "Round 3": "",
+    "Total Score": 1025,
+    "Tie-Break": 541
+  },
+  {
+    "Team Name": "Don't Know",
+    "Round 1": 780,
+    "Round 2": 200,
+    "Round 3": "",
+    "Total Score": 980,
+    "Tie-Break": 478
+  },
+  {
+    "Team Name": "Ganitagya",
+    "Round 1": 750,
+    "Round 2": 230,
+    "Round 3": "",
+    "Total Score": 980,
+    "Tie-Break": 281
+  },
+  {
+    "Team Name": "Mathletics",
+    "Round 1": 500,
+    "Round 2": 475,
+    "Round 3": "",
+    "Total Score": 975,
+    "Tie-Break": 447
+  },
+  {
+    "Team Name": "Young Ramanujans",
+    "Round 1": 600,
+    "Round 2": 375,
+    "Round 3": "",
+    "Total Score": 975,
+    "Tie-Break": 333
+  },
+  {
+    "Team Name": "Mathemagicians",
+    "Round 1": 780,
+    "Round 2": 175,
+    "Round 3": "",
+    "Total Score": 955,
+    "Tie-Break": 321
+  },
+  {
+    "Team Name": "F temple",
+    "Round 1": 940,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 940,
+    "Tie-Break": 427
+  },
+  {
+    "Team Name": "Henceprovers",
+    "Round 1": 590,
+    "Round 2": 325,
+    "Round 3": "",
+    "Total Score": 915,
+    "Tie-Break": 208
+  },
+  {
+    "Team Name": "Fourier Front",
+    "Round 1": 500,
+    "Round 2": 410,
+    "Round 3": "",
+    "Total Score": 910,
+    "Tie-Break": 150
+  },
+  {
+    "Team Name": "Geekfreaks",
+    "Round 1": 600,
+    "Round 2": 300,
+    "Round 3": "",
+    "Total Score": 900,
+    "Tie-Break": 287
+  },
+  {
+    "Team Name": "MTH ki MKB",
+    "Round 1": 650,
+    "Round 2": 225,
+    "Round 3": "",
+    "Total Score": 875,
+    "Tie-Break": 349
+  },
+  {
+    "Team Name": "Maths Wizardś",
+    "Round 1": 770,
+    "Round 2": 100,
+    "Round 3": "",
+    "Total Score": 870,
+    "Tie-Break": 600
+  },
+  {
+    "Team Name": "4*4",
+    "Round 1": 680,
+    "Round 2": 150,
+    "Round 3": "",
+    "Total Score": 830,
+    "Tie-Break": 302
+  },
+  {
+    "Team Name": "SDHM",
+    "Round 1": 500,
+    "Round 2": 325,
+    "Round 3": "",
+    "Total Score": 825,
+    "Tie-Break": 169
+  },
+  {
+    "Team Name": "The Limit Does Not Exist",
+    "Round 1": 600,
+    "Round 2": 175,
+    "Round 3": "",
+    "Total Score": 775,
+    "Tie-Break": 257
+  },
+  {
+    "Team Name": "Algebros",
+    "Round 1": 690,
+    "Round 2": 75,
+    "Round 3": "",
+    "Total Score": 765,
+    "Tie-Break": 216
+  },
+  {
+    "Team Name": "onE",
+    "Round 1": 600,
+    "Round 2": 150,
+    "Round 3": "",
+    "Total Score": 750,
+    "Tie-Break": 299
+  },
+  {
+    "Team Name": "Squared_pie",
+    "Round 1": 600,
+    "Round 2": 150,
+    "Round 3": "",
+    "Total Score": 750,
+    "Tie-Break": 135
+  },
+  {
+    "Team Name": "Limit Breakers",
+    "Round 1": 560,
+    "Round 2": 170,
+    "Round 3": "",
+    "Total Score": 730,
+    "Tie-Break": 418
+  },
+  {
+    "Team Name": "MATHEMAGICIANS",
+    "Round 1": 590,
+    "Round 2": 125,
+    "Round 3": "",
+    "Total Score": 715,
+    "Tie-Break": 322
+  },
+  {
+    "Team Name": "Epsilion squard",
+    "Round 1": 700,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 700,
+    "Tie-Break": 440
+  },
+  {
+    "Team Name": "Sexy sexy hall 3",
+    "Round 1": 700,
+    "Round 2": 0,
+    "Round 3": "",
+    "Total Score": 700,
+    "Tie-Break": 240
+  },
+  {
+    "Team Name": "The Rumbling",
+    "Round 1": 690,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 690,
+    "Tie-Break": 398
+  },
+  {
+    "Team Name": "3 hi kafi hai",
+    "Round 1": 690,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 690,
+    "Tie-Break": 338
+  },
+  {
+    "Team Name": "The Zeros",
+    "Round 1": 660,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 660,
+    "Tie-Break": 368
+  },
+  {
+    "Team Name": "Tompers",
+    "Round 1": 600,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 600,
+    "Tie-Break": 360
+  },
+  {
+    "Team Name": "Glitch",
+    "Round 1": 600,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 600,
+    "Tie-Break": 286
+  },
+  {
+    "Team Name": "Mathaminds",
+    "Round 1": 600,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 600,
+    "Tie-Break": 233
+  },
+  {
+    "Team Name": "Acidic team",
+    "Round 1": 600,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 600,
+    "Tie-Break": 183
+  },
+  {
+    "Team Name": "Dabbey",
+    "Round 1": 600,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 600,
+    "Tie-Break": 171
+  },
+  {
+    "Team Name": "Mathemania's Katniss Everdeen",
+    "Round 1": 590,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 590,
+    "Tie-Break": 278
+  },
+  {
+    "Team Name": "Lone4",
+    "Round 1": 590,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 590,
+    "Tie-Break": 204
+  },
+  {
+    "Team Name": "Jai Shree Ram🚩🚩",
+    "Round 1": 590,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 590,
+    "Tie-Break": 156
+  },
+  {
+    "Team Name": "Alpha",
+    "Round 1": 580,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 580,
+    "Tie-Break": 283
+  },
+  {
+    "Team Name": "Team STFU",
+    "Round 1": 570,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 570,
+    "Tie-Break": 289
+  },
+  {
+    "Team Name": "4 Hungeries",
+    "Round 1": 570,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 570,
+    "Tie-Break": 193
+  },
+  {
+    "Team Name": "solow",
+    "Round 1": 540,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 540,
+    "Tie-Break": 344
+  },
+  {
+    "Team Name": "RamANUJan",
+    "Round 1": 500,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 500,
+    "Tie-Break": 457
+  },
+  {
+    "Team Name": "Kiss our Axes",
+    "Round 1": 500,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 500,
+    "Tie-Break": 295
+  },
+  {
+    "Team Name": "MATH-amphetamine",
+    "Round 1": 500,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 500,
+    "Tie-Break": 248
+  },
+  {
+    "Team Name": "timepass",
+    "Round 1": 500,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 500,
+    "Tie-Break": 246
+  },
+  {
+    "Team Name": "Congruence",
+    "Round 1": 500,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 500,
+    "Tie-Break": 194
+  },
+  {
+    "Team Name": "Infinity Pi",
+    "Round 1": 500,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 500,
+    "Tie-Break": 173
+  },
+  {
+    "Team Name": "Jaguar",
+    "Round 1": 500,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 500,
+    "Tie-Break": 172
+  },
+  {
+    "Team Name": "Ravan",
+    "Round 1": 500,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 500,
+    "Tie-Break": 156
+  },
+  {
+    "Team Name": "Varahmihir",
+    "Round 1": 500,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 500,
+    "Tie-Break": 156
+  },
+  {
+    "Team Name": "Pie:: Irrational",
+    "Round 1": 500,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 500,
+    "Tie-Break": 138
+  },
+  {
+    "Team Name": "Mathmagician",
+    "Round 1": 500,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 500,
+    "Tie-Break": 129
+  },
+  {
+    "Team Name": "Marcos",
+    "Round 1": 500,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 500,
+    "Tie-Break": 124
+  },
+  {
+    "Team Name": "illuminati",
+    "Round 1": 500,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 500,
+    "Tie-Break": 111
+  },
+  {
+    "Team Name": "Plus Minus",
+    "Round 1": 500,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 500,
+    "Tie-Break": 111
+  },
+  {
+    "Team Name": "lonecoder",
+    "Round 1": 490,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 490,
+    "Tie-Break": 286
+  },
+  {
+    "Team Name": "Mathchamps",
+    "Round 1": 490,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 490,
+    "Tie-Break": 255
+  },
+  {
+    "Team Name": "alphaQ",
+    "Round 1": 490,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 490,
+    "Tie-Break": 234
+  },
+  {
+    "Team Name": "Helios",
+    "Round 1": 490,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 490,
+    "Tie-Break": 202
+  },
+  {
+    "Team Name": "Fantastic 100",
+    "Round 1": 480,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 480,
+    "Tie-Break": 237
+  },
+  {
+    "Team Name": "M a t h s -  π r a t e s",
+    "Round 1": 400,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 400,
+    "Tie-Break": 242
+  },
+  {
+    "Team Name": "Mathematica5733",
+    "Round 1": 400,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 400,
+    "Tie-Break": 234
+  },
+  {
+    "Team Name": "leaders",
+    "Round 1": 400,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 400,
+    "Tie-Break": 223
+  },
+  {
+    "Team Name": "Banglae Bol",
+    "Round 1": 400,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 400,
+    "Tie-Break": 209
+  },
+  {
+    "Team Name": "Oopsilons",
+    "Round 1": 400,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 400,
+    "Tie-Break": 209
+  },
+  {
+    "Team Name": "panik2022",
+    "Round 1": 400,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 400,
+    "Tie-Break": 191
+  },
+  {
+    "Team Name": "Team Cal-coholics",
+    "Round 1": 400,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 400,
+    "Tie-Break": 191
+  },
+  {
+    "Team Name": "Idk",
+    "Round 1": 400,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 400,
+    "Tie-Break": 186
+  },
+  {
+    "Team Name": "Mathologer",
+    "Round 1": 400,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 400,
+    "Tie-Break": 136
+  },
+  {
+    "Team Name": "Mathists",
+    "Round 1": 400,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 400,
+    "Tie-Break": 128
+  },
+  {
+    "Team Name": "Team",
+    "Round 1": 400,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 400,
+    "Tie-Break": 108
+  },
+  {
+    "Team Name": "SKKS - The facers",
+    "Round 1": 400,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 400,
+    "Tie-Break": 107
+  },
+  {
+    "Team Name": "Fluffy's fluffies",
+    "Round 1": 400,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 400,
+    "Tie-Break": 93
+  },
+  {
+    "Team Name": "Mathophillia",
+    "Round 1": 400,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 400,
+    "Tie-Break": 75
+  },
+  {
+    "Team Name": "Quick Quadruple",
+    "Round 1": 400,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 400,
+    "Tie-Break": 50
+  },
+  {
+    "Team Name": "Gaussian Gamblers",
+    "Round 1": 390,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 390,
+    "Tie-Break": 280
+  },
+  {
+    "Team Name": "Rational 3.14",
+    "Round 1": 390,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 390,
+    "Tie-Break": 178
+  },
+  {
+    "Team Name": "Team Atharv",
+    "Round 1": 390,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 390,
+    "Tie-Break": 156
+  },
+  {
+    "Team Name": "Maniacs",
+    "Round 1": 390,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 390,
+    "Tie-Break": 145
+  },
+  {
+    "Team Name": "The_Alchemists",
+    "Round 1": 390,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 390,
+    "Tie-Break": 136
+  },
+  {
+    "Team Name": "Team Solo",
+    "Round 1": 390,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 390,
+    "Tie-Break": 63
+  },
+  {
+    "Team Name": "First class",
+    "Round 1": 300,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 300,
+    "Tie-Break": 251
+  },
+  {
+    "Team Name": "SUG",
+    "Round 1": 300,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 300,
+    "Tie-Break": 213
+  },
+  {
+    "Team Name": "Parsec",
+    "Round 1": 300,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 300,
+    "Tie-Break": 180
+  },
+  {
+    "Team Name": "Spei boyz",
+    "Round 1": 300,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 300,
+    "Tie-Break": 178
+  },
+  {
+    "Team Name": "Matheads",
+    "Round 1": 300,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 300,
+    "Tie-Break": 174
+  },
+  {
+    "Team Name": "INQUISIVITA",
+    "Round 1": 300,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 300,
+    "Tie-Break": 169
+  },
+  {
+    "Team Name": "Team kj",
+    "Round 1": 300,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 300,
+    "Tie-Break": 151
+  },
+  {
+    "Team Name": "Akatsuki",
+    "Round 1": 300,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 300,
+    "Tie-Break": 132
+  },
+  {
+    "Team Name": "Mathemagicians #2",
+    "Round 1": 300,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 300,
+    "Tie-Break": 129
+  },
+  {
+    "Team Name": "FINFINITY",
+    "Round 1": 300,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 300,
+    "Tie-Break": 125
+  },
+  {
+    "Team Name": "Hunger Games",
+    "Round 1": 300,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 300,
+    "Tie-Break": 53
+  },
+  {
+    "Team Name": "The Upshot",
+    "Round 1": 300,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 300,
+    "Tie-Break": 37
+  },
+  {
+    "Team Name": "TheSoulexplorer",
+    "Round 1": 290,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 290,
+    "Tie-Break": 95
+  },
+  {
+    "Team Name": "Mechies",
+    "Round 1": 290,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 290,
+    "Tie-Break": 86
+  },
+  {
+    "Team Name": "Aviators",
+    "Round 1": 290,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 290,
+    "Tie-Break": 48
+  },
+  {
+    "Team Name": "EVER TRY TO DEAL WITH PIE",
+    "Round 1": 200,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 200,
+    "Tie-Break": 124
+  },
+  {
+    "Team Name": "opboyz",
+    "Round 1": 200,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 200,
+    "Tie-Break": 107
+  },
+  {
+    "Team Name": "Fibonacci",
+    "Round 1": 200,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 200,
+    "Tie-Break": 99
+  },
+  {
+    "Team Name": "S30Squad",
+    "Round 1": 200,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 200,
+    "Tie-Break": 83
+  },
+  {
+    "Team Name": "Starlink",
+    "Round 1": 200,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 200,
+    "Tie-Break": 71
+  },
+  {
+    "Team Name": "Divergent",
+    "Round 1": 200,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 200,
+    "Tie-Break": 43
+  },
+  {
+    "Team Name": "D BLOCK",
+    "Round 1": 100,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 100,
+    "Tie-Break": 89
+  },
+  {
+    "Team Name": "HELLO WORLD",
+    "Round 1": 100,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 100,
+    "Tie-Break": 86
+  },
+  {
+    "Team Name": "Eshan",
+    "Round 1": 100,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 100,
+    "Tie-Break": 80
+  },
+  {
+    "Team Name": "Mathspro",
+    "Round 1": 100,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 100,
+    "Tie-Break": 52
+  },
+  {
+    "Team Name": "Saksham",
+    "Round 1": 100,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 100,
+    "Tie-Break": 39
+  },
+  {
+    "Team Name": "Team Invincible",
+    "Round 1": 100,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 100,
+    "Tie-Break": 17
+  },
+  {
+    "Team Name": "crazy_xyz",
+    "Round 1": 90,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 90,
+    "Tie-Break": 82
+  },
+  {
+    "Team Name": "calco-holic",
+    "Round 1": 0,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 0,
+    "Tie-Break": 0
+  },
+  {
+    "Team Name": "CHIKKI",
+    "Round 1": 0,
+    "Round 2": "",
+    "Round 3": "",
+    "Total Score": 0,
+    "Tie-Break": 0
   }
 ]
