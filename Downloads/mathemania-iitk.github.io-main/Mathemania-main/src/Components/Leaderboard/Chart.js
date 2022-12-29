@@ -161,7 +161,6 @@ export default function CustomizedTables() {
               <StyledTableCell align="center">Round 2</StyledTableCell>
               <StyledTableCell align="center">Round 3</StyledTableCell>
               <StyledTableCell align="center">Points</StyledTableCell>
-              <StyledTableCell align="center">Points</StyledTableCell>
               <StyledTableCell align="center">Tie Breaker</StyledTableCell>
              
             </TableRow>
