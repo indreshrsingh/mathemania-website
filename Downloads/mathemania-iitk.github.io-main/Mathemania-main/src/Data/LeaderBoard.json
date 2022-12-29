@@ -152,6 +152,14 @@
     "TieBreak": 302
   },
   {
+    "TeamName": "Guava",
+    "Round1": 900,
+    "Round2": 665,
+    "Round3": 1300,
+    "TotalScore": 2865,
+    "TieBreak": 416
+  },
+  {
     "TeamName": "The X-Ecutors",
     "Round1": 600,
     "Round2": 730,
@@ -166,14 +174,6 @@
     "Round3": 1200,
     "TotalScore": 2765,
     "TieBreak": 278
-  },
-  {
-    "TeamName": "Guava",
-    "Round1": 900,
-    "Round2": 665,
-    "Round3": 1150,
-    "TotalScore": 2715,
-    "TieBreak": 416
   },
   {
     "TeamName": "Mathlomaniacs",
