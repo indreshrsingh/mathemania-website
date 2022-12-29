@@ -164,7 +164,7 @@ export default function TaskCard() {
 
                 <div className={classes.namePlace}>
                   <Typography component="h5" variant="h5" align="center">
-                   Test
+                   Wingies
                   </Typography>
                   <Typography
                     variant="subtitle1"
@@ -177,7 +177,7 @@ export default function TaskCard() {
                 </div>
 
                 <hr color="#16548a"></hr>
-                <Typography variant="caption">Grade 10-05</Typography>
+                <Typography variant="caption"></Typography>
               </CardContent>
             </div>
           </Card>
@@ -200,7 +200,7 @@ export default function TaskCard() {
 
                 <div className={classes.namePlace}>
                   <Typography component="h5" variant="h5" align="center">
-                  Test
+                  1729
                   </Typography>
                   <Typography
                     variant="subtitle1"
@@ -213,7 +213,7 @@ export default function TaskCard() {
                 </div>
 
                 <hr color="#16548a"></hr>
-                <Typography variant="caption">Grade 09-07</Typography>
+                <Typography variant="caption"></Typography>
               </CardContent>
             </div>
           </Card>
@@ -231,7 +231,7 @@ export default function TaskCard() {
 
                 <div className={classes.namePlace}>
                   <Typography component="h5" variant="h5" align="center">
-                    Test
+                   Army Ants
                   </Typography>
                   <Typography
                     variant="subtitle1"
@@ -244,7 +244,7 @@ export default function TaskCard() {
                 </div>
 
                 <hr color="#16548a"></hr>
-                <Typography variant="caption">Grade 09-11</Typography>
+                <Typography variant="caption"></Typography>
               </CardContent>
             </div>
           </Card>
