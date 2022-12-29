@@ -244,7 +244,7 @@ export default function TaskCard() {
                 </div>
 
                 <hr color="#16548a"></hr>
-                <Typography variant="caption">Gaurav Manwani,Varun Murlidharan,Sarthak Rout,Devanshu Singla</Typography>
+                <Typography variant="caption">         Gaurav Manwani,Varun Murlidharan,Sarthak Rout,Devanshu Singla</Typography>
               </CardContent>
             </div>
           </Card>
