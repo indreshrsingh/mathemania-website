@@ -177,7 +177,7 @@ export default function TaskCard() {
                 </div>
 
                 <hr color="#16548a"></hr>
-                <Typography variant="caption">Parth Patel,Pravar Kataria,Kushagra Gupta</Typography>
+                <Typography variant="caption">Suren,Parth Patel,Pravar Kataria,Kushagra Gupta</Typography>
               </CardContent>
             </div>
           </Card>
