@@ -53,14 +53,14 @@ export default function Header() {
         <div>
             <Grid container className={classes.headerContainer}>
                 <Grid item  xl={6} lg={6} md={12} sm={12} xs={12} className={classes.hero}>
-                    <Typography variant='h2' gutterBottom="true" align='left' style={{marginBottom: '50px', fontWeight: 'bold',fontSize:'52px'}}>MATHEMANIA 2022</Typography>
+                    <Typography variant='h2' gutterBottom="true" align='left' style={{marginBottom: '50px', fontWeight: 'bold',fontSize:'52px'}}>MATHEMANIA 2022 </Typography>
 
                     <div className="countdown">
                     <br></br>
 
                     </div>
 
-                    <Typography variant='h5'  align='left' style={{marginBottom: '50px'}}><span style={{color: '#3ed1b8'}}>Mathemania 2022 is a 3-stage treasure hunt consisting of Math and Logical puzzles,  based on the trilogy Hunger Games</span>  organized by the Stamatics Society </Typography>
+                    <Typography variant='h5'  align='left' style={{marginBottom: '50px'}}><span style={{color: '#3ed1b8'}}>Mathemania 2022 is a 3-stage treasure hunt consisting of Math and Logical puzzles,  based on the trilogy Hunger Games</span>  organized by the Stamatics Society<br></br> Event is over.Congratulations to all the winners 🏆🎉🏆</Typography>
 
                     <Button variant='contained' href='#catt' color='secondary' style={{color: '#000', marginLeft: '20px'}}>More Info</Button>
                 </Grid>

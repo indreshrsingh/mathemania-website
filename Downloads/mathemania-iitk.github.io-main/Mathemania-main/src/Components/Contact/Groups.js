@@ -84,6 +84,30 @@ export default function OC() {
       </Button>
       </CardActions>
     </Card>
+        <Card className={classes.root} elevation='6' >
+      <CardHeader
+        title="MATHEMANIA Whatsapp Group"
+        subheader="Team Leaders should join the group "
+      />
+      <CardContent>
+        <Typography variant="body2"  component="p">
+        Please be respectful to other members of the group and help each other.
+        It will benefit you when it comes to winning the competition
+        </Typography>
+      </CardContent>
+      <CardActions disableSpacing>
+      <Button
+        variant="contained"
+        size="large"
+        target="_blank"
+        href="https://chat.whatsapp.com/Bn3lWYEFgDk22QWH5nJAKk"
+        className={classes.button}
+        startIcon={<WhatsAppIcon />}
+      >
+        Join
+      </Button>
+      </CardActions>
+    </Card>            
     </Grid>
   );
 }

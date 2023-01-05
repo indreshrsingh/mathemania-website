@@ -12,7 +12,10 @@ import SwipeableViews from "react-swipeable-views";
 import "../../../App.css";
 import taskDetails from "../../../Data/tasks.json";
 import Linkify from "react-linkify";
-
+import { useState } from "react";
+import QuestionPaper from "../../../Data/Round2_main.pdf";
+import QuestionPaper3 from "../../../Data/Round3_Final.pdf";
+import QuestionPaper1 from "../../../Data/ROUND1_final.pdf";
 function TabPanel(props) {
   const { children, value, index, ...other } = props;
 
@@ -124,6 +127,26 @@ export default function FullWidthTabs() {
   const classes = useStyles();
   const theme = useTheme();
   const [value, setValue] = React.useState(0);
+  const currentTime = new Date().getTime();
+
+// Set the time in milliseconds for when the exam starts
+const examStartTime = new Date('2022-12-27T18:00:00').getTime();
+
+// Calculate the time remaining until the exam starts
+const timeUntilExamStart = examStartTime - currentTime;
+const [ok, setOk] = useState(0);
+setTimeout(function() {
+  // Display the question paper
+setOk(1);
+}, timeUntilExamStart);
+
+const [numPages, setNumPages] = useState(null);
+const [pageNumber, setPageNumber] = useState(1);
+
+function onDocumentLoadSuccess({ numPages }) {
+  setNumPages(numPages);
+}
+
 
   const handleChange = (event, newValue) => {
     setValue(newValue);
@@ -198,13 +221,35 @@ export default function FullWidthTabs() {
                 <ul style={{ color: "#fefefe", marrginTop: "90px" }}>
                   {details.point1 !== "" && <li>{details.point1}</li>}
                   {details.point2 !== "" && <li>{details.point2}</li>}
-                  {details.point3 !== "" && <li>{details.point3}</li>}
+                  {ok>0 &&details.point3 !== "" && <li>{details.point3}</li>}
                   {details.point4 !== "" && <li>{details.point4}</li>}
                   {details.point5 !== "" && <li>{details.point5}</li>}
                   {details.point6 !== "" && <li>{details.point6}</li>}
                   {details.point7 !== "" && <li>{details.point7}</li>}
+                   
+                  {details.index==2  && <object data={QuestionPaper} type="application/pdf" style={{height:"1500px",width:"800px"}}>
+      <p>Your browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/14y7F0ZlTRdjrScxRxPqKw4PH52gUR2PF/view?usp=drivesdk">Download PDF</a></p>
+    </object>
+}                 
+                 {details.index==3 && ok>0 && <object data={QuestionPaper3} type="application/pdf" style={{height:"1500px",width:"800px"}}>
+      <p>Your browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1RlfzAOU1BJl4xCJj8K8GsC4uSpbDCGrp/view?usp=sharing">Download PDF</a></p>
+    </object>
+}              
+                    {details.index==1  && <object data={QuestionPaper1} type="application/pdf" style={{height:"1500px",width:"800px"}}>
+      <p>Your browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1cADSSQA__C7NIFPJJQ6vtRXAf1nrzjUz/view?usp=sharing">Download PDF</a></p>
+    </object>
+} 
                 </ul>
                 <br></br>
+                <Button
+                href={details.submit}
+                className={classes.form}
+                color="secondary"
+                target="_blank"
+                variant="contained"
+              >
+                Submit Task
+              </Button>
               </Linkify>
             </TabPanel>
             <TabPanel value={value} index={1} dir={theme.direction}>

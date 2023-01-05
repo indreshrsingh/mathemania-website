@@ -1,4 +1,4 @@
-import React from 'react';
+import React,{useState} from 'react';
 import { withStyles, makeStyles } from '@material-ui/core/styles';
 import Table from '@material-ui/core/Table';
 import TableBody from '@material-ui/core/TableBody';
@@ -10,6 +10,14 @@ import data from '../../Data/LeaderBoard.json'
 import Winners from './Winners'
 import theme from '../../theme';
 import { Button, Typography } from '@material-ui/core';
+import { useEffect } from 'react';
+
+
+
+
+
+
+
 
 const StyledTableCell = withStyles((theme) => ({
   head: {
@@ -100,28 +108,47 @@ const useStyles = makeStyles({
   },
 });
 
+
+
+
 export default function CustomizedTables() {
   const classes = useStyles();
+  useEffect(() => {
+    FectchData()
+   }, []);
+   const [data1,setData1]=useState(data);
+
+
+   async function  FectchData(){
+
+    const response = " "
+      
+      
+       var data2 = await response.json();
+       setData1(data2);
+  
+  }
+  
+   setInterval(FectchData,1000);
+
   return (
     <div>
       <Winners />
       <TableContainer className={classes.papper}>
         <div className={classes.updateContainer}>
           <Typography className={classes.update} variant="caption">
-            Last updated: 01.09.2021 10.15PM
+            Final
           </Typography>
         </div>
-
-        <Button
+      <Button
           className={classes.sheetButton}
           variant="contained"
           color="secondary"
-          href="/404"
+          href="https://docs.google.com/spreadsheets/d/1-QIav_sE-qM1J1JIDxkB8uELGf8Nn3VNHfT3XQrQqyc/edit?usp=sharing"
           target="_blank"
         >
-          Leaderboard Spreadsheet(TBU)
-        </Button>
-
+          Feedback Spreadsheet       </Button>
+      
         <br></br>
         <Table className={classes.table} aria-label="customized table">
           <TableHead>
@@ -129,37 +156,51 @@ export default function CustomizedTables() {
               <StyledTableCell style={{ color: "#3ed1b8" }}>
                 Rank
               </StyledTableCell>
-              <StyledTableCell align="center">Nickname</StyledTableCell>
-              <StyledTableCell align="center">Class</StyledTableCell>
-              <StyledTableCell align="center">
-                No. Of Tasks Accepted
-              </StyledTableCell>
+              <StyledTableCell align="center">Teamname</StyledTableCell>
+              <StyledTableCell align="center">Round 1</StyledTableCell>
+              <StyledTableCell align="center">Round 2</StyledTableCell>
+              <StyledTableCell align="center">Round 3</StyledTableCell>
               <StyledTableCell align="center">Points</StyledTableCell>
+              <StyledTableCell align="center">Tie Breaker</StyledTableCell>
+             
             </TableRow>
           </TableHead>
           <TableBody className={classes.tBody}>
-            {data.map((list, index) => (
-              <StyledTableRow key={index}>
+            
+
+            {data.map((list,index) => (
+               
+              <StyledTableRow key={index} >
                 <StyledTableCell
                   component="th"
                   scope="row"
                   style={{ color: "#3ed1b8", fontWeight: "bold" }}
                   className={classes.body}
                 >
-                  {list.index}
+                  {index+1}
                 </StyledTableCell>
                 <StyledTableCell className={classes.body} align="center">
-                  {list.name}
+                  {list.TeamName}
+                
+                </StyledTableCell>
+               <StyledTableCell className={classes.body} align="center">
+                  {list.Round1}
+                 </StyledTableCell>
+                <StyledTableCell className={classes.body} align="center">
+                  {list.Round2}
+                </StyledTableCell>
+                 <StyledTableCell className={classes.body} align="center">
+                  {list.Round3}
                 </StyledTableCell>
                 <StyledTableCell className={classes.body} align="center">
-                  {list.class}
-                </StyledTableCell>
+                {list.TotalScore}
+                </StyledTableCell> 
                 <StyledTableCell className={classes.body} align="center">
-                  {list.tasks}
+                  {list.TieBreak}
+                
                 </StyledTableCell>
-                <StyledTableCell className={classes.body} align="center">
-                  {list.points}
-                </StyledTableCell>
+              
+                
               </StyledTableRow>
             ))}
           </TableBody>

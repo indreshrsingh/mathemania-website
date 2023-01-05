@@ -1,14 +1,42 @@
 [
-  {
-    "id": "Round 1",
-    "index": 2,
-    "taskName": "To Be Updated",
-    "shortDescription": "",
+  
+    {
+    "id": "Round 3",
+    "index": 3,
+    "taskName": "Round 3",
+    "shortDescription": "Its recommeneded to download the pdf",
     "description": "",
      "catogery": "",
-    "submit": "https://forms.gle/4TW1uqq21E3iJmak8",
-    "point1": "Question Paper is uploaded in below pdf file"
-    
+    "submit": "https://forms.gle/pxcJJzmGtS2QzrPn9",
+    "point1": "Question Paper is uploaded in below pdf file",
+    "point2":"Please download the pdf for better view ",
+    "point3":"Submission link is now added. ", 
+     "point4":"Feedback Spreadsheet is now in leaderboard section"
+     },
+     {
+    "id": "Round 2",
+    "index": 2,
+    "taskName": "Round 2",
+    "shortDescription": "Its recommeneded to download the pdf",
+    "description": "",
+     "catogery": "",
+    "submit": "https://forms.gle/2nQKza8dmPzuGbJb6",
+    "point1": "Question Paper is uploaded in below pdf file",
+    "point2":"Please download the pdf for better view ",
+    "point3":"Feedback is uploaded in leaderboard section"
+     },
+    {
+    "id": "Round 1",
+    "index": 1,
+    "taskName": "Round 1",
+    "shortDescription": "Its recommeneded to download the pdf",
+    "description": "",
+     "catogery": "",
+    "submit": "",
+    "point1": "Question Paper is uploaded in below pdf file",
+    "point2":"Please download the pdf for better view ",
+    "point3":"Feedback is uploaded in leaderboard section"
      }
+
 
 ]

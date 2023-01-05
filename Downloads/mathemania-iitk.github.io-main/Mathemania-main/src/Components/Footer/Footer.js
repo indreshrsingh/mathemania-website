@@ -66,7 +66,9 @@ const Footer = ({}) => {
           </div>
            <div className="footer-nav">
            <div className="footer-nav">
-          
+           <a href="https://stamatics.github.io/mathemania/">Mathemania'20</a>
+            <a href="https://www.iitk.ac.in/math/STAMATICS/mathemania.html">Mathemania'17</a>
+           
           </div>
      </div>
           <span id="copyrights">Copyright Reserved. STAMATICS© 2022 </span>

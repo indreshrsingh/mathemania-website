@@ -53,7 +53,7 @@ export default function App({ location }) {
                 <NotFound />
               </Route>
             </Switch>
-            <Footer />
+           
           </ThemeProvider>
         </div>
       </ScrollToTop>
